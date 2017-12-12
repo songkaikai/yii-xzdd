@@ -1,0 +1,11 @@
+2017-07-04 15:20:03: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-04 15:20:03: -- Analysis Started by On File Change, After Delay
+2017-07-04 15:20:03: 变更：1， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 12326
+2017-07-04 15:20:03: Left to Right: Copy File: 1 
+2017-07-04 15:20:03: == Sync Started by On File Change, After Delay
+2017-07-04 15:20:09: D:\wwwroot\xzdd\runtime\logs\app.log: Downloaded 1588732 bytes, MORE than expected 1585667 bytes
+2017-07-04 15:20:10: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed during Sync from '[file] size=1,585,667 accu-time=2017-07-04 15:19:54 attr=Archive' to 'size=1,588,732 time=2017-07-04 15:20:04', will be retried
+2017-07-04 15:20:10: Destination side file adjusted to '[file] size=1,588,732 accu-time=2017-07-04 15:20:01 file-time=2017-07-04 15:20:10 attr=Archive', to force retry
+2017-07-04 15:20:10: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.182/runtime/logs/app.log'
+2017-07-04 15:20:11: ===== ：同步完毕。时间：00:00:08，速度： 216 KB/s =====, 项目同步未必： 1，错误： 
+2017-07-04 15:20:12: 

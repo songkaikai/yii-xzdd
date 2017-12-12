@@ -1,0 +1,16 @@
+2017-07-04 21:05:25: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-04 21:05:25: -- Analysis Started by On File Change, After Delay
+2017-07-04 21:05:25: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-04 21:05:26: 变更：4， 冲突：， 复制时间：， 复制状态：/4， 错误： , All: 12331
+2017-07-04 21:05:26: Left to Right: Copy File: 4 
+2017-07-04 21:05:26: == Sync Started by On File Change, After Delay
+2017-07-04 21:05:26: 创建文件夹 'ftp://103.231.67.182/runtime/cache/ae'
+- 错误: Cannot create folder: Server says: Directory already exists
+2017-07-04 21:05:27: 覆盖复制 'D:/wwwroot/xzdd/log/alipay/2017-07-04.log' -> 'ftp://103.231.67.182/log/alipay/2017-07-04.log'
+2017-07-04 21:05:45: D:\wwwroot\xzdd\runtime\logs\app.log: Downloaded 4500838 bytes, MORE than expected 4470333 bytes
+2017-07-04 21:05:46: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed between Analyze and Sync from '[file] size=4,466,208 accu-time=2017-07-04 21:05:22 attr=Archive' to 'size=4,470,333 time=2017-07-04 21:05:27', noted in source file state
+2017-07-04 21:05:46: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed during Sync from '[file] size=4,470,333 accu-time=2017-07-04 21:05:27 attr=Archive' to 'size=4,500,838 time=2017-07-04 21:05:44', will be retried
+2017-07-04 21:05:46: Destination side file adjusted to '[file] size=4,500,838 accu-time=2017-07-04 21:05:41 file-time=2017-07-04 21:05:46 attr=Archive', to force retry
+2017-07-04 21:05:46: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.182/runtime/logs/app.log'
+2017-07-04 21:05:48: ===== ：同步完毕。时间：00:00:22，速度： 227 KB/s =====, 项目同步未必： 6，错误： 1
+2017-07-04 21:05:48: 

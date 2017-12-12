@@ -1,0 +1,19 @@
+2017-07-05 19:02:27: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-05 19:02:27: -- Analysis Started by On File Change, After Delay
+2017-07-05 19:02:27: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-05 19:02:28: 变更：8， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 12357
+2017-07-05 19:02:28: Left to Right: Copy File: 8 
+2017-07-05 19:02:28: == Sync Started by On File Change, After Delay
+2017-07-05 19:02:31: 覆盖复制 'D:/wwwroot/xzdd/log/alipay/2017-07-05.log' -> 'ftp://103.231.67.182/log/alipay/2017-07-05.log'
+2017-07-05 19:02:31: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/04/04336c0df543103faf96db3b53e3ad54.bin' -> 'ftp://103.231.67.182/runtime/cache/04/04336c0df543103faf96db3b53e3ad54.bin'
+2017-07-05 19:02:31: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/46/46626992c3507d9c0b0f34d45e535466.bin' -> 'ftp://103.231.67.182/runtime/cache/46/46626992c3507d9c0b0f34d45e535466.bin'
+2017-07-05 19:02:31: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/5d/5df342f733e9af5b0aa9b6c7b12717f2.bin' -> 'ftp://103.231.67.182/runtime/cache/5d/5df342f733e9af5b0aa9b6c7b12717f2.bin'
+2017-07-05 19:02:31: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/7c/7c1094dc7f135b717e43ea4e7cbba01f.bin' -> 'ftp://103.231.67.182/runtime/cache/7c/7c1094dc7f135b717e43ea4e7cbba01f.bin'
+2017-07-05 19:02:31: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/ae/aee54b7e2675630a2c1eb716c740a088.bin' -> 'ftp://103.231.67.182/runtime/cache/ae/aee54b7e2675630a2c1eb716c740a088.bin'
+2017-07-05 19:02:31: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/ca/ca78023fdca7fd0a29d8072d7e90a3a6.bin' -> 'ftp://103.231.67.182/runtime/cache/ca/ca78023fdca7fd0a29d8072d7e90a3a6.bin'
+2017-07-05 19:03:02: D:\wwwroot\xzdd\runtime\logs\app.log: Downloaded 7669818 bytes, MORE than expected 7666033 bytes
+2017-07-05 19:03:04: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed during Sync from '[file] size=7,666,033 accu-time=2017-07-05 18:54:22 attr=Archive' to 'size=7,669,818 time=2017-07-05 19:02:53', will be retried
+2017-07-05 19:03:04: Destination side file adjusted to '[file] size=7,669,818 accu-time=2017-07-05 19:02:50 file-time=2017-07-05 19:03:04 attr=Archive', to force retry
+2017-07-05 19:03:04: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.182/runtime/logs/app.log'
+2017-07-05 19:03:05: ===== ：同步完毕。时间：00:00:37，速度： 225 KB/s =====, 项目同步未必： 8，错误： 
+2017-07-05 19:03:05: 

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,minimum-scale=1,user-scalable=0">
+      <meta name="format-detection" content="telephone=no" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <title>血战到底下载页</title>
+      <link rel="stylesheet" href="css/reset.css">
+      <style>
+        .load-page{position: fixed;top:0;right:0;bottom:0;left:0;background: url(images/load_bg.jpg) no-repeat;background-size:100% 100%;}
+        .load-page .qmgs-icon{position:absolute;top:50%;left:50%;width: 150px;height:150px;-webkit-transform:translate(-75px, -170px);background: url(images/xzdd_icon.png) no-repeat;background-size: 100% 100%;margin:auto;}
+        .load-page .qmgs-icon .icon-btn{display: block;width:118px;height:39px;position: absolute;bottom:-140px; left:50%;margin-left:-59px;display: none;}
+        .load-page .qmgs-icon .icon-btn.load-ios{background: url(images/ios_icon.png) no-repeat;background-size: 100% 100%;}
+        .load-page .qmgs-icon .icon-btn.load-android{background: url(images/android_icon.png) no-repeat;background-size: 100% 100%;}
+        .shade{display: none;position: fixed;top:0;right:0;bottom:0;left:0;background: rgba(0,0,0,0.6);}
+        .shade img{display: block;width:100%;height: auto;}
+      </style>
+</head>
+<body>
+      <div class="load-page">
+          <div class="qmgs-icon">
+            <!-- ios -->
+            <span class="icon-btn load-ios" i-data="itms-services://?action=download-manifest&url=https://git.oschina.net/phpgame/xuezhan/raw/master/download.pist"></span>
+            <!-- android -->
+            <span class="icon-btn load-android" i-data="/app/xzdd_back.apk"></span>
+          </div>
+      </div>
+      <div class="shade">
+        <img src="images/tips_icon.png" alt="">
+      </div>
+      <script src="js/zepto.js"></script>
+	<script>
+            var nav = navigator.userAgent.toLowerCase();
+            $('.qmgs-icon .icon-btn').click(function(){
+                 if(nav.match(/MicroMessenger/i) == 'micromessenger'){
+                      $('.shade').show();
+                      return false;
+                  }
+                  window.location.href = $(this).attr('i-data');
+            });
+            // 判断ios跟android
+            if (/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent)) {  //判断iPhone|iPad|iPod|iOS
+                  $('.qmgs-icon .load-ios').show();
+              } else if (/(Android)/i.test(navigator.userAgent)) {   //判断Android
+                  $('.qmgs-icon .load-android').show();
+              } else {  //pc
+                  alert('PC');
+             };
+
+      </script>
+</body>
+</html>

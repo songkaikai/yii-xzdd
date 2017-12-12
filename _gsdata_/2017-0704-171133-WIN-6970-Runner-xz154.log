@@ -1,0 +1,42 @@
+2017-07-04 17:11:34: Connected to: D:\wwwroot\xzdd: D: NTFS: type=NTFS vol= flags=3E700FF
+2017-07-04 17:11:34: FTP: Use MLST/MLSD command to list files
+2017-07-04 17:11:34: Connected to: ftp://103.231.67.154: FileZilla Server 0.9.60 betawritten by Tim Kosse (tim.kosse@filezilla-project.org)Please visit https://filezilla-project.org/ ...: Syst='UNIX emulated by FileZilla' Feat='Features:: MDTM: REST STREAM: SIZE: MLST type*;size*;modify*;: MLSD: UTF8: CLNT: MFMT: EPSV: EPRT:End'
+2017-07-04 17:11:34: Incremental Analyze for On File Change
+2017-07-04 17:11:34: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-04 17:11:34: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2017-07-04 17:11:34: -- Analysis Started by On File Change, After Delay, Under Runner
+2017-07-04 17:11:34: ----- ：任务 'xz154'：计算机 'WIN-6970' 上的分析操作已由 On File Change, After Delay, Under Runner 所启动 (GoodSync v 10.4.1.5) -----
+2017-07-04 17:11:34: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-04 17:11:34: 排除隐藏属性, 排除系统属性, 已排除 name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2017-07-04 17:11:34: Locking folder D:/wwwroot/xzdd for write
+2017-07-04 17:11:34: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-04 17:11:34: 左侧: 读取状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-04 17:11:34: Change in: D:/wwwroot/xzdd/runtime/logs/app.log
+2017-07-04 17:11:34: Change in: D:/wwwroot/xzdd/runtime/cache/f6/f6a1b2e08ca049a3271860f2859eabb5.bin
+2017-07-04 17:11:34: Change in: D:/wwwroot/xzdd/runtime/cache/f6/f6a1b2e08ca049a3271860f2859eabb5.bin
+2017-07-04 17:11:34: Change in: D:/wwwroot/xzdd/runtime/cache/f6/f6a1b2e08ca049a3271860f2859eabb5.bin
+2017-07-04 17:11:34: Change in: D:/wwwroot/xzdd/runtime/cache/f6/f6a1b2e08ca049a3271860f2859eabb5.bin
+2017-07-04 17:11:34: Change in: D:/wwwroot/xzdd/models/form/LotteryForm.php
+2017-07-04 17:11:34: Change in: D:/wwwroot/xzdd/models/form/LotteryForm.php
+2017-07-04 17:11:34: Change in: D:/wwwroot/xzdd/models/form/LotteryForm.php
+2017-07-04 17:11:34: Change in: D:/wwwroot/xzdd/models/form/LotteryForm.php
+2017-07-04 17:11:34: Change in: D:/wwwroot/xzdd/models/form/LotteryForm.php
+2017-07-04 17:11:34: Locking folder ftp://103.231.67.154 for write
+2017-07-04 17:11:34: 同步需要磁盘 file:///D: 上的空间应为 0 字节，目前为 99.2 GB
+2017-07-04 17:11:34: On disk ftp://103.231.67.154 space required for sync is 18.0 KB, free space is unknown
+2017-07-04 17:11:34: 变更：2， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0, All: 12329
+2017-07-04 17:11:34: Left to Right: Copy File: 2 
+2017-07-04 17:11:34: ----- ：分析已结束。 历时 00:00:01， 速度： 12K 个文件/秒 -----
+2017-07-04 17:11:34: == Sync Started by On File Change, After Delay, Under Runner
+2017-07-04 17:11:34: ===== ：任务 'xz154'：同步已被 On File Change, After Delay, Under Runner 所启动，位于计算机 'WIN-6970' =====
+2017-07-04 17:11:34: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-04 17:11:35: Load Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-04 17:11:35: 覆盖复制 'D:/wwwroot/xzdd/models/form/LotteryForm.php' -> 'ftp://103.231.67.154/models/form/LotteryForm.php'
+2017-07-04 17:11:35: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/f6/f6a1b2e08ca049a3271860f2859eabb5.bin' -> 'ftp://103.231.67.154/runtime/cache/f6/f6a1b2e08ca049a3271860f2859eabb5.bin'
+2017-07-04 17:11:35: 保存状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-04 17:11:36: 保存状态文件 ftp://103.231.67.154/_gsdata_/_file_state_v4._gs
+2017-07-04 17:11:36: Save Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-04 17:11:36: ===== ：同步完毕。时间：00:00:02，速度： 100 KB/s =====, 项目同步未必： 2，错误： 0
+2017-07-04 17:11:36: Unlocking folder D:/wwwroot/xzdd/_gsdata_/lock.gsl
+2017-07-04 17:11:36: Unlocking folder ftp://103.231.67.154/_gsdata_/lock.gsl
+2017-07-04 17:11:36: 

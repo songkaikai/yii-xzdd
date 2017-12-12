@@ -1,0 +1,47 @@
+2017-07-03 10:13:12: Connected to: D:\wwwroot\xzdd: D: NTFS: type=NTFS vol= flags=3E700FF
+2017-07-03 10:13:12: FTP: Use MLST/MLSD command to list files
+2017-07-03 10:13:12: Connected to: ftp://103.231.67.182: FileZilla Server 0.9.60 betawritten by Tim Kosse (tim.kosse@filezilla-project.org)Please visit https://filezilla-project.org/ ...: Syst='UNIX emulated by FileZilla' Feat='Features:: MDTM: REST STREAM: SIZE: MLST type*;size*;modify*;: MLSD: UTF8: CLNT: MFMT: EPSV: EPRT:End'
+2017-07-03 10:13:12: Incremental Analyze for On File Change
+2017-07-03 10:13:12: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-03 10:13:12: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2017-07-03 10:13:12: -- Analysis Started by On File Change, After Delay, Under Runner
+2017-07-03 10:13:12: ----- ：任务 'xz'：计算机 'WIN-6970' 上的分析操作已由 On File Change, After Delay, Under Runner 所启动 (GoodSync v 10.4.1.5) -----
+2017-07-03 10:13:12: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] [NoListDir-TrustStateFile] =PropDels=> ftp://103.231.67.182 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-03 10:13:12: 排除隐藏属性, 排除系统属性, 已排除 name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2017-07-03 10:13:12: Locking folder D:/wwwroot/xzdd for write
+2017-07-03 10:13:12: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-03 10:13:12: 左侧: 读取状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-03 10:13:13: Change in: D:/wwwroot/xzdd/runtime/logs/app.log
+2017-07-03 10:13:13: Locking folder ftp://103.231.67.182 for write
+2017-07-03 10:13:13: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bolt/index.html: Sync will delete Folder /vendor/fortawesome/font-awesome/src/3.2.1/icon/bolt on Right because it is deleted on Left, File /vendor/fortawesome/font-awesome/src/3.2.1/icon/bolt/index.html changed on Right (Vertical Conflict)
+2017-07-03 10:13:13: 同步需要磁盘 file:///D: 上的空间应为 0 字节，目前为 99.2 GB
+2017-07-03 10:13:13: On disk ftp://103.231.67.182 space required for sync is 610 KB, free space is unknown
+2017-07-03 10:13:13: 分析完毕并发现冲突情况。如需解决冲突请选择正常的同步方向。
+2017-07-03 10:13:13: 变更：3， 冲突：2， 复制时间：0， 复制状态：0/10， 错误： 0, All: 12184
+2017-07-03 10:13:13: Left to Right: Copy File: 1 
+2017-07-03 10:13:13: ----- ：分析已结束。 历时 00:00:02， 速度： 6014 个文件/秒 -----
+2017-07-03 10:13:13: == Sync Started by On File Change, After Delay, Under Runner
+2017-07-03 10:13:13: ===== ：任务 'xz'：同步已被 On File Change, After Delay, Under Runner 所启动，位于计算机 'WIN-6970' =====
+2017-07-03 10:13:13: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] [NoListDir-TrustStateFile] =PropDels=> ftp://103.231.67.182 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-03 10:13:13: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/book/index.html
+2017-07-03 10:13:13: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/book
+2017-07-03 10:13:13: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bookmark/index.html
+2017-07-03 10:13:13: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bookmark
+2017-07-03 10:13:13: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bookmark-empty/index.html
+2017-07-03 10:13:13: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bookmark-empty
+2017-07-03 10:13:13: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/briefcase/index.html
+2017-07-03 10:13:13: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/briefcase
+2017-07-03 10:13:13: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/btc/index.html
+2017-07-03 10:13:13: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/btc
+2017-07-03 10:13:16: Load Recycled DB: ftp://103.231.67.182/_gsdata_/_recycled_db._gs
+2017-07-03 10:13:16: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.182/runtime/logs/app.log'
+2017-07-03 10:13:16: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bolt/index.html: unresolved conflict results in No Copy
+2017-07-03 10:13:16: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bolt: unresolved conflict results in No Copy
+2017-07-03 10:13:16: 保存状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-03 10:13:17: 保存状态文件 ftp://103.231.67.182/_gsdata_/_file_state_v4._gs
+2017-07-03 10:13:17: 同步完成，未解决的冲突数为 2 。点击冲突按钮即可查看未解决的冲突情况。
+2017-07-03 10:13:17: Save Recycled DB: ftp://103.231.67.182/_gsdata_/_recycled_db._gs
+2017-07-03 10:13:17: ===== ：同步完毕。时间：00:00:04，速度： 198 KB/s =====, 项目同步未必： 11，错误： 0, Conflicts: 2
+2017-07-03 10:13:17: Deleted lock file D:/wwwroot/xzdd/_gsdata_/lock.gsl
+2017-07-03 10:13:17: Deleted lock file ftp://103.231.67.182/_gsdata_/lock.gsl
+2017-07-03 10:13:17: 

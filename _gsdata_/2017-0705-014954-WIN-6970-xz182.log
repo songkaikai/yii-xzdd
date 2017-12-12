@@ -1,0 +1,11 @@
+2017-07-05 01:49:55: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-05 01:49:55: -- Analysis Started by On File Change, After Delay
+2017-07-05 01:49:56: 变更：4， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 12355
+2017-07-05 01:49:56: Left to Right: Copy File: 4 
+2017-07-05 01:49:56: == Sync Started by On File Change, After Delay
+2017-07-05 01:49:56: 创建文件夹 'ftp://103.231.67.182/runtime/cache/8a'
+2017-07-05 01:49:56: 创建文件夹 'ftp://103.231.67.182/runtime/cache/b8'
+2017-07-05 01:49:56: 新建复制 'D:/wwwroot/xzdd/runtime/cache/8a/8a59f8b8dbbc2f6ac5b8f08d3eea753d.bin' -> 'ftp://103.231.67.182/runtime/cache/8a/8a59f8b8dbbc2f6ac5b8f08d3eea753d.bin'
+2017-07-05 01:49:56: 新建复制 'D:/wwwroot/xzdd/runtime/cache/b8/b8836f1f6cf1f2337aee85dd74f7bb7c.bin' -> 'ftp://103.231.67.182/runtime/cache/b8/b8836f1f6cf1f2337aee85dd74f7bb7c.bin'
+2017-07-05 01:49:57: ===== ：同步完毕。时间：00:00:01，速度： 200 KB/s =====, 项目同步未必： 4，错误： 
+2017-07-05 01:49:57: 

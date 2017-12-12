@@ -1,0 +1,34 @@
+2017-07-03 16:32:28: Connected to: D:\wwwroot\xzdd: D: NTFS: type=NTFS vol= flags=3E700FF
+2017-07-03 16:32:28: FTP: Use MLST/MLSD command to list files
+2017-07-03 16:32:28: Connected to: ftp://103.231.67.154: FileZilla Server 0.9.60 betawritten by Tim Kosse (tim.kosse@filezilla-project.org)Please visit https://filezilla-project.org/ ...: Syst='UNIX emulated by FileZilla' Feat='Features:: MDTM: REST STREAM: SIZE: MLST type*;size*;modify*;: MLSD: UTF8: CLNT: MFMT: EPSV: EPRT:End'
+2017-07-03 16:32:28: First Full Analyze for On File Change
+2017-07-03 16:32:28: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-03 16:32:28: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2017-07-03 16:32:28: -- Analysis Started by Trying Locks Again, Under Runner
+2017-07-03 16:32:28: ----- ：任务 'xz154'：计算机 'WIN-6970' 上的分析操作已由 Trying Locks Again, Under Runner 所启动 (GoodSync v 10.4.1.5) -----
+2017-07-03 16:32:28: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-03 16:32:28: 排除隐藏属性, 排除系统属性, 已排除 name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2017-07-03 16:32:28: Locking folder D:/wwwroot/xzdd for write
+2017-07-03 16:32:28: 左侧: 读取状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-03 16:32:29: 左侧：文件： 9884 (已排除 0)。文件夹： 2281 (已排除 1)。 Times (s): Folder Scan: 0.500 (24332 f/s), Compare: 0.078 D: NTFS 可用空间：99.2 GB，总计空间：99.9 GB
+2017-07-03 16:32:29: Locking folder ftp://103.231.67.154 for write
+2017-07-03 16:32:29: 右侧: 读取状态文件 ftp://103.231.67.154/_gsdata_/_file_state_v4._gs
+2017-07-03 16:32:39: 右侧：文件： 9885 (已排除 0)。文件夹： 2281 (已排除 1)。 Times (s): Folder Scan: 10.750 (1131 f/s), Compare: 0.078 ywxzdd FileZilla Server 0.9.60 betawritten by Tim Kosse (tim.kosse@filezilla-project.org)Please visit https://filezilla-project.org/ ... 
+2017-07-03 16:32:40: 同步需要磁盘 file:///D: 上的空间应为 0 字节，目前为 99.2 GB
+2017-07-03 16:32:40: On disk ftp://103.231.67.154 space required for sync is 0.98 MB, free space is unknown
+2017-07-03 16:32:40: 变更：2， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0, All: 12310
+2017-07-03 16:32:40: Left to Right: Copy File: 1 Delete File: 1 
+2017-07-03 16:32:40: ----- ：分析已结束。 历时 00:00:13， 速度： 935 个文件/秒 -----
+2017-07-03 16:32:40: == Sync Started by Trying Locks Again, Under Runner
+2017-07-03 16:32:40: ===== ：任务 'xz154'：同步已被 Trying Locks Again, Under Runner 所启动，位于计算机 'WIN-6970' =====
+2017-07-03 16:32:40: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-03 16:32:40: Load Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-03 16:32:40: 删除文件 'ftp://103.231.67.154/log/console/2017-07-03.log'
+2017-07-03 16:32:44: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.154/runtime/logs/app.log'
+2017-07-03 16:32:44: 保存状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-03 16:32:46: 保存状态文件 ftp://103.231.67.154/_gsdata_/_file_state_v4._gs
+2017-07-03 16:32:46: Save Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-03 16:32:46: ===== ：同步完毕。时间：00:00:06，速度： 237 KB/s =====, 项目同步未必： 2，错误： 0
+2017-07-03 16:32:46: Unlocking folder D:/wwwroot/xzdd/_gsdata_/lock.gsl
+2017-07-03 16:32:46: Unlocking folder ftp://103.231.67.154/_gsdata_/lock.gsl
+2017-07-03 16:32:46: 

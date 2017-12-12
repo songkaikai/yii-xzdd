@@ -1,0 +1,25 @@
+2017-07-04 21:11:32: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-04 21:11:32: -- Analysis Started by On File Change, After Delay
+2017-07-04 21:11:32: 变更：15， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 12349
+2017-07-04 21:11:32: Left to Right: Copy File: 15 
+2017-07-04 21:11:32: == Sync Started by On File Change, After Delay
+2017-07-04 21:11:32: 创建文件夹 'ftp://103.231.67.182/web/xz/css'
+2017-07-04 21:11:32: 创建文件夹 'ftp://103.231.67.182/web/xz/images'
+2017-07-04 21:11:32: 创建文件夹 'ftp://103.231.67.182/web/xz/js'
+2017-07-04 21:11:33: 覆盖复制 'D:/wwwroot/xzdd/log/alipay/2017-07-04.log' -> 'ftp://103.231.67.182/log/alipay/2017-07-04.log'
+2017-07-04 21:11:51: D:\wwwroot\xzdd\runtime\logs\app.log: Downloaded 4710017 bytes, MORE than expected 4682136 bytes
+2017-07-04 21:11:54: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed during Sync from '[file] size=4,682,136 accu-time=2017-07-04 21:11:31 attr=Archive' to 'size=4,710,017 time=2017-07-04 21:11:50', will be retried
+2017-07-04 21:11:54: Destination side file adjusted to '[file] size=4,710,017 accu-time=2017-07-04 21:11:47 file-time=2017-07-04 21:11:54 attr=Archive', to force retry
+2017-07-04 21:11:54: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.182/runtime/logs/app.log'
+2017-07-04 21:12:08: 新建复制 'D:/wwwroot/xzdd/web/xz/app/xzdd.apk' -> 'ftp://103.231.67.182/web/xz/app/xzdd.apk'
+2017-07-04 21:12:28: 新建复制 'D:/wwwroot/xzdd/web/xz/app/xzdd_back.apk' -> 'ftp://103.231.67.182/web/xz/app/xzdd_back.apk'
+2017-07-04 21:12:28: 新建复制 'D:/wwwroot/xzdd/web/xz/css/reset.css' -> 'ftp://103.231.67.182/web/xz/css/reset.css'
+2017-07-04 21:12:28: 新建复制 'D:/wwwroot/xzdd/web/xz/images/android_icon.png' -> 'ftp://103.231.67.182/web/xz/images/android_icon.png'
+2017-07-04 21:12:28: 新建复制 'D:/wwwroot/xzdd/web/xz/images/ios_icon.png' -> 'ftp://103.231.67.182/web/xz/images/ios_icon.png'
+2017-07-04 21:12:29: 新建复制 'D:/wwwroot/xzdd/web/xz/images/load_bg.jpg' -> 'ftp://103.231.67.182/web/xz/images/load_bg.jpg'
+2017-07-04 21:12:29: 新建复制 'D:/wwwroot/xzdd/web/xz/images/tips_icon.png' -> 'ftp://103.231.67.182/web/xz/images/tips_icon.png'
+2017-07-04 21:12:29: 新建复制 'D:/wwwroot/xzdd/web/xz/images/xzdd_icon.png' -> 'ftp://103.231.67.182/web/xz/images/xzdd_icon.png'
+2017-07-04 21:12:29: 新建复制 'D:/wwwroot/xzdd/web/xz/index.html' -> 'ftp://103.231.67.182/web/xz/index.html'
+2017-07-04 21:12:29: 新建复制 'D:/wwwroot/xzdd/web/xz/js/zepto.js' -> 'ftp://103.231.67.182/web/xz/js/zepto.js'
+2017-07-04 21:12:31: ===== ：同步完毕。时间：00:00:59，速度： 202 KB/s =====, 项目同步未必： 15，错误： 
+2017-07-04 21:12:31: 

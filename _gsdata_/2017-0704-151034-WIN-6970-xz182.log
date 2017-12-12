@@ -1,0 +1,13 @@
+2017-07-04 15:10:35: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-04 15:10:35: -- Analysis Started by On File Change, After Delay
+2017-07-04 15:10:35: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-04 15:10:36: 变更：1， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 12326
+2017-07-04 15:10:36: Left to Right: Copy File: 1 
+2017-07-04 15:10:36: == Sync Started by On File Change, After Delay
+2017-07-04 15:10:50: D:\wwwroot\xzdd\web\app\xzdd.apk: Downloaded 3605200 bytes, MORE than expected 3407872 bytes
+2017-07-04 15:10:52: D:/wwwroot/xzdd/web/app/xzdd.apk: Source file has changed between Analyze and Sync from '[file] size=1,976,686 accu-time=2017-07-04 15:10:27 attr=Archive' to 'size=2,126,446 time=2017-07-04 15:10:27', noted in source file state
+2017-07-04 15:10:52: D:/wwwroot/xzdd/web/app/xzdd.apk: Source file has changed during Sync from '[file] size=2,126,446 accu-time=2017-07-04 15:10:27 attr=Archive' to 'size=3,605,200 time=2017-07-04 15:11:11', will be retried
+2017-07-04 15:10:52: Destination side file adjusted to '[file] size=3,605,200 accu-time=2017-07-04 15:10:52 attr=Archive', to force retry
+2017-07-04 15:10:52: 新建复制 'D:/wwwroot/xzdd/web/app/xzdd.apk' -> 'ftp://103.231.67.182/web/app/xzdd.apk'
+2017-07-04 15:10:53: ===== ：同步完毕。时间：00:00:17，速度： 124 KB/s =====, 项目同步未必： 1，错误： 
+2017-07-04 15:10:53: 

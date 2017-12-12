@@ -1,0 +1,8 @@
+2017-07-04 17:25:57: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-04 17:25:57: -- Analysis Started by On File Change, After Delay
+2017-07-04 17:25:58: 变更：1， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 12329
+2017-07-04 17:25:58: Left to Right: Copy File: 1 
+2017-07-04 17:25:58: == Sync Started by On File Change, After Delay
+2017-07-04 17:25:58: 覆盖复制 'D:/wwwroot/xzdd/models/form/PublicRowForm.php' -> 'ftp://103.231.67.182/models/form/PublicRowForm.php'
+2017-07-04 17:25:59: ===== ：同步完毕。时间：00:00:01，速度： 189 KB/s =====, 项目同步未必： 1，错误： 
+2017-07-04 17:25:59: 

@@ -1,0 +1,19 @@
+2017-07-03 14:21:20: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-03 14:21:20: -- Analysis Started by On File Change, After Delay
+2017-07-03 14:21:20: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-03 14:21:20: 变更：11， 冲突：， 复制时间：， 复制状态：6/7， 错误： , All: 12310
+2017-07-03 14:21:20: Left to Right: Copy File: 11 Copy State: 6 
+2017-07-03 14:21:20: == Sync Started by On File Change, After Delay
+2017-07-03 14:21:20: 创建文件夹 'ftp://103.231.67.182/web/assets/47ed1217'
+2017-07-03 14:21:20: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/04/04336c0df543103faf96db3b53e3ad54.bin' -> 'ftp://103.231.67.182/runtime/cache/04/04336c0df543103faf96db3b53e3ad54.bin'
+2017-07-03 14:21:20: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/ca/ca78023fdca7fd0a29d8072d7e90a3a6.bin' -> 'ftp://103.231.67.182/runtime/cache/ca/ca78023fdca7fd0a29d8072d7e90a3a6.bin'
+2017-07-03 14:21:20: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/f9/f90ab1de9bef54e4a8c4bd9bde61f092.bin' -> 'ftp://103.231.67.182/runtime/cache/f9/f90ab1de9bef54e4a8c4bd9bde61f092.bin'
+2017-07-03 14:21:24: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.182/runtime/logs/app.log'
+2017-07-03 14:21:24: 新建复制 'D:/wwwroot/xzdd/web/assets/47ed1217/bower.json' -> 'ftp://103.231.67.182/web/assets/47ed1217/bower.json'
+2017-07-03 14:21:24: 新建复制 'D:/wwwroot/xzdd/web/assets/47ed1217/CHANGELOG.md' -> 'ftp://103.231.67.182/web/assets/47ed1217/CHANGELOG.md'
+2017-07-03 14:21:24: 新建复制 'D:/wwwroot/xzdd/web/assets/47ed1217/jquery.pjax.js' -> 'ftp://103.231.67.182/web/assets/47ed1217/jquery.pjax.js'
+2017-07-03 14:21:24: 新建复制 'D:/wwwroot/xzdd/web/assets/47ed1217/LICENSE' -> 'ftp://103.231.67.182/web/assets/47ed1217/LICENSE'
+2017-07-03 14:21:24: 新建复制 'D:/wwwroot/xzdd/web/assets/47ed1217/package.json' -> 'ftp://103.231.67.182/web/assets/47ed1217/package.json'
+2017-07-03 14:21:24: 新建复制 'D:/wwwroot/xzdd/web/assets/47ed1217/README.md' -> 'ftp://103.231.67.182/web/assets/47ed1217/README.md'
+2017-07-03 14:21:25: ===== ：同步完毕。时间：00:00:05，速度： 194 KB/s =====, 项目同步未必： 24，错误： 
+2017-07-03 14:21:25: 

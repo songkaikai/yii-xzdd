@@ -1,0 +1,10 @@
+2017-07-05 15:23:27: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-05 15:23:27: -- Analysis Started by On File Change, After Delay
+2017-07-05 15:23:27: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-05 15:23:28: 变更：2， 冲突：， 复制时间：， 复制状态：/1， 错误： , All: 12357
+2017-07-05 15:23:28: Left to Right: Copy File: 2 
+2017-07-05 15:23:28: == Sync Started by On File Change, After Delay
+2017-07-05 15:23:28: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/f1/f154a0a7c80b8fa1576703610e8978fc.bin' -> 'ftp://103.231.67.182/runtime/cache/f1/f154a0a7c80b8fa1576703610e8978fc.bin'
+2017-07-05 15:23:54: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.182/runtime/logs/app.log'
+2017-07-05 15:23:56: ===== ：同步完毕。时间：00:00:28，速度： 223 KB/s =====, 项目同步未必： 3，错误： 
+2017-07-05 15:23:56: 

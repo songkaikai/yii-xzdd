@@ -1,0 +1,17 @@
+2017-07-04 23:53:21: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-04 23:53:21: -- Analysis Started by On File Change, After Delay
+2017-07-04 23:53:21: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-04 23:53:22: 变更：2， 冲突：， 复制时间：， 复制状态：/1， 错误： , All: 12351
+2017-07-04 23:53:22: Left to Right: Copy File: 2 
+2017-07-04 23:53:22: == Sync Started by On File Change, After Delay
+2017-07-04 23:53:24: D:\wwwroot\xzdd\log\alipay\2017-07-04.log: Downloaded 801649 bytes, MORE than expected 800653 bytes
+2017-07-04 23:53:25: D:/wwwroot/xzdd/log/alipay/2017-07-04.log: Source file has changed during Sync from '[file] size=800,653 accu-time=2017-07-04 23:52:52 attr=Archive' to 'size=801,649 time=2017-07-04 23:53:23', will be retried
+2017-07-04 23:53:25: Destination side file adjusted to '[file] size=801,649 accu-time=2017-07-04 23:53:20 file-time=2017-07-04 23:53:25 attr=Archive', to force retry
+2017-07-04 23:53:25: 覆盖复制 'D:/wwwroot/xzdd/log/alipay/2017-07-04.log' -> 'ftp://103.231.67.182/log/alipay/2017-07-04.log'
+2017-07-04 23:54:01: D:\wwwroot\xzdd\runtime\logs\app.log: Downloaded 8696780 bytes, MORE than expected 8656284 bytes
+2017-07-04 23:54:02: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed between Analyze and Sync from '[file] size=8,651,519 accu-time=2017-07-04 23:52:49 attr=Archive' to 'size=8,656,284 time=2017-07-04 23:53:25', noted in source file state
+2017-07-04 23:54:02: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed during Sync from '[file] size=8,656,284 accu-time=2017-07-04 23:53:25 attr=Archive' to 'size=8,696,780 time=2017-07-04 23:53:56', will be retried
+2017-07-04 23:54:02: Destination side file adjusted to '[file] size=8,696,780 accu-time=2017-07-04 23:53:53 file-time=2017-07-04 23:54:03 attr=Archive', to force retry
+2017-07-04 23:54:02: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.182/runtime/logs/app.log'
+2017-07-04 23:54:04: ===== ：同步完毕。时间：00:00:42，速度： 229 KB/s =====, 项目同步未必： 3，错误： 
+2017-07-04 23:54:04: 

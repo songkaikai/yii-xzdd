@@ -1,0 +1,174 @@
+2017-07-05 11:45:20: Connected to: D:\wwwroot\xzdd: D: NTFS: type=NTFS vol= flags=3E700FF
+2017-07-05 11:45:20: FTP: Use MLST/MLSD command to list files
+2017-07-05 11:45:20: Connected to: ftp://103.231.67.154: FileZilla Server 0.9.60 betawritten by Tim Kosse (tim.kosse@filezilla-project.org)Please visit https://filezilla-project.org/ ...: Syst='UNIX emulated by FileZilla' Feat='Features:: MDTM: REST STREAM: SIZE: MLST type*;size*;modify*;: MLSD: UTF8: CLNT: MFMT: EPSV: EPRT:End'
+2017-07-05 11:45:20: First Full Analyze for On File Change
+2017-07-05 11:45:20: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-05 11:45:20: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2017-07-05 11:45:20: -- Analysis Started by On File Change Incremental, Under Runner
+2017-07-05 11:45:20: ----- ：任务 'xz154'：计算机 'WIN-6970' 上的分析操作已由 On File Change Incremental, Under Runner 所启动 (GoodSync v 10.4.1.5) -----
+2017-07-05 11:45:20: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-05 11:45:20: 排除隐藏属性, 排除系统属性, 已排除 name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2017-07-05 11:45:20: Locking folder D:/wwwroot/xzdd for write
+2017-07-05 11:45:20: 左侧: 读取状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-05 11:45:21: 左侧：文件： 9899 (已排除 0)。文件夹： 2292 (已排除 1)。 Times (s): Folder Scan: 0.547 (22288 f/s), Compare: 0.094 D: NTFS 可用空间：99.2 GB，总计空间：99.9 GB
+2017-07-05 11:45:21: Locking folder ftp://103.231.67.154 for write
+2017-07-05 11:45:21: 右侧: 读取状态文件 ftp://103.231.67.154/_gsdata_/_file_state_v4._gs
+2017-07-05 11:45:32: 右侧：文件： 9900 (已排除 0)。文件夹： 2292 (已排除 1)。 Times (s): Folder Scan: 10.984 (1110 f/s), Compare: 0.094 ywxzdd FileZilla Server 0.9.60 betawritten by Tim Kosse (tim.kosse@filezilla-project.org)Please visit https://filezilla-project.org/ ... 
+2017-07-05 11:45:32: Candidate Left-Right WholeHour TS of 1 hr: /runtime/cache/46/46626992c3507d9c0b0f34d45e535466.bin
+2017-07-05 11:45:32: Candidate Left-Right OldMinRoundNewExact TS of 1 hr: /runtime/cache/46/46626992c3507d9c0b0f34d45e535466.bin
+2017-07-05 11:45:32: Left-Right Time Shift of 1 hours at 1 files: drop because not enough files
+2017-07-05 11:45:32: Left-Right Time Shift of 1 hours at 1 files: drop because not enough files
+2017-07-05 11:45:32: 同步需要磁盘 file:///D: 上的空间应为 0 字节，目前为 99.2 GB
+2017-07-05 11:45:32: On disk ftp://103.231.67.154 space required for sync is 3.41 MB, free space is unknown
+2017-07-05 11:45:32: 变更：3， 冲突：0， 复制时间：0， 复制状态：0/134， 错误： 0, All: 12356
+2017-07-05 11:45:32: Left to Right: Copy File: 2 Delete File: 1 
+2017-07-05 11:45:32: ----- ：分析已结束。 历时 00:00:13， 速度： 937 个文件/秒 -----
+2017-07-05 11:45:32: == Sync Started by On File Change Incremental, Under Runner
+2017-07-05 11:45:32: ===== ：任务 'xz154'：同步已被 On File Change Incremental, Under Runner 所启动，位于计算机 'WIN-6970' =====
+2017-07-05 11:45:32: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-05 11:45:32: Sync State Merge: /log/alipay/2017-07-04.log
+2017-07-05 11:45:32: Load Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-05 11:45:32: 删除文件 'ftp://103.231.67.154/log/console/2017-07-05.log'
+2017-07-05 11:45:32: Sync State Merge: /runtime/cache/04/04336c0df543103faf96db3b53e3ad54.bin
+2017-07-05 11:45:32: Sync State Merge: /runtime/cache/5d/5df342f733e9af5b0aa9b6c7b12717f2.bin
+2017-07-05 11:45:32: Sync State Merge: /runtime/cache/7c/7c1094dc7f135b717e43ea4e7cbba01f.bin
+2017-07-05 11:45:32: Sync State Merge: /runtime/cache/88/88d56a1e3f7548ed49d338bf13649a96.bin
+2017-07-05 11:45:32: Sync State Merge: /runtime/cache/96/963454f612a8b5fb4a63ba1e97f028a1.bin
+2017-07-05 11:45:32: Sync State Merge: /runtime/cache/ae/aee54b7e2675630a2c1eb716c740a088.bin
+2017-07-05 11:45:32: Sync State Merge: /runtime/cache/ca/ca78023fdca7fd0a29d8072d7e90a3a6.bin
+2017-07-05 11:45:32: Sync State Merge: /runtime/cache/e0/e06071f5cce8ce9c32bf29f97f8d7794.bin
+2017-07-05 11:45:32: Sync State Merge: /runtime/cache/f6/f6a1b2e08ca049a3271860f2859eabb5.bin
+2017-07-05 11:45:32: Sync State Merge: /runtime/cache/f9/f90ab1de9bef54e4a8c4bd9bde61f092.bin
+2017-07-05 11:45:32: Sync State Merge: /web/assets/5e62b2c3/css/font-awesome.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/5e62b2c3/css/font-awesome.css.map
+2017-07-05 11:45:32: Sync State Merge: /web/assets/5e62b2c3/css/font-awesome.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/5e62b2c3/css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/5e62b2c3/fonts/fontawesome-webfont.eot
+2017-07-05 11:45:32: Sync State Merge: /web/assets/5e62b2c3/fonts/fontawesome-webfont.svg
+2017-07-05 11:45:32: Sync State Merge: /web/assets/5e62b2c3/fonts/fontawesome-webfont.ttf
+2017-07-05 11:45:32: Sync State Merge: /web/assets/5e62b2c3/fonts/fontawesome-webfont.woff
+2017-07-05 11:45:32: Sync State Merge: /web/assets/5e62b2c3/fonts/fontawesome-webfont.woff2
+2017-07-05 11:45:32: Sync State Merge: /web/assets/5e62b2c3/fonts/FontAwesome.otf
+2017-07-05 11:45:32: Sync State Merge: /web/assets/5e62b2c3/fonts
+2017-07-05 11:45:32: Sync State Merge: /web/assets/5e62b2c3
+2017-07-05 11:45:32: Sync State Merge: /web/assets/684671c7/yii.activeForm.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/684671c7/yii.captcha.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/684671c7/yii.gridView.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/684671c7/yii.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/684671c7/yii.validation.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/684671c7
+2017-07-05 11:45:32: Sync State Merge: /web/assets/6c4ad0e5/bower.json
+2017-07-05 11:45:32: Sync State Merge: /web/assets/6c4ad0e5/CHANGELOG.md
+2017-07-05 11:45:32: Sync State Merge: /web/assets/6c4ad0e5/jquery.pjax.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/6c4ad0e5/LICENSE
+2017-07-05 11:45:32: Sync State Merge: /web/assets/6c4ad0e5/package.json
+2017-07-05 11:45:32: Sync State Merge: /web/assets/6c4ad0e5/README.md
+2017-07-05 11:45:32: Sync State Merge: /web/assets/6c4ad0e5
+2017-07-05 11:45:32: Sync State Merge: /web/assets/8c8a3c12/jquery.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/8c8a3c12/jquery.min.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/8c8a3c12/jquery.min.map
+2017-07-05 11:45:32: Sync State Merge: /web/assets/8c8a3c12
+2017-07-05 11:45:32: Sync State Merge: /web/assets/c8e4ebb4/animate.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/c8e4ebb4/jquery-ui.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/c8e4ebb4/jquery-ui.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/c8e4ebb4/list-item.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/c8e4ebb4/main.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/c8e4ebb4
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/css/bootstrap-theme.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/css/bootstrap-theme.css.map
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/css/bootstrap-theme.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/css/bootstrap-theme.min.css.map
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/css/bootstrap.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/css/bootstrap.css.map
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/css/bootstrap.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/css/bootstrap.min.css.map
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/fonts/glyphicons-halflings-regular.eot
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/fonts/glyphicons-halflings-regular.svg
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/fonts/glyphicons-halflings-regular.ttf
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/fonts/glyphicons-halflings-regular.woff
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/fonts/glyphicons-halflings-regular.woff2
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/fonts
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/js/bootstrap.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/js/bootstrap.min.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/js/npm.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5/js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/d08fb1d5
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/AdminLTE.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/AdminLTE.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/_all-skins.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/_all-skins.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-black-light.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-black-light.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-black.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-black.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-blue-light.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-blue-light.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-blue.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-blue.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-green-light.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-green-light.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-green.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-green.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-purple-light.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-purple-light.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-purple.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-purple.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-red-light.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-red-light.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-red.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-red.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-yellow-light.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-yellow-light.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-yellow.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins/skin-yellow.min.css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css/skins
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/css
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/avatar.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/avatar04.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/avatar2.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/avatar3.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/avatar5.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/boxed-bg.jpg
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/boxed-bg.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/credit/american-express.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/credit/cirrus.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/credit/mastercard.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/credit/mestro.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/credit/paypal.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/credit/paypal2.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/credit/visa.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/credit
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/default-50x50.gif
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/icons.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/photo1.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/photo2.png
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/photo3.jpg
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/photo4.jpg
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/user1-128x128.jpg
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/user2-160x160.jpg
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/user3-128x128.jpg
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/user4-128x128.jpg
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/user5-128x128.jpg
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/user6-128x128.jpg
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/user7-128x128.jpg
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img/user8-128x128.jpg
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/img
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/js/app.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/js/app.min.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/js/demo.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/js/pages/dashboard.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/js/pages/dashboard2.js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/js/pages
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516/js
+2017-07-05 11:45:32: Sync State Merge: /web/assets/e09c3516
+2017-07-05 11:45:32: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/46/46626992c3507d9c0b0f34d45e535466.bin' -> 'ftp://103.231.67.154/runtime/cache/46/46626992c3507d9c0b0f34d45e535466.bin'
+2017-07-05 11:45:45: Change detected [0]: t=Modified path=/log/alipay/2017-07-05.log
+2017-07-05 11:45:47: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.154/runtime/logs/app.log'
+2017-07-05 11:45:48: 保存状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-05 11:45:49: 保存状态文件 ftp://103.231.67.154/_gsdata_/_file_state_v4._gs
+2017-07-05 11:45:49: Save Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-05 11:45:49: ===== ：同步完毕。时间：00:00:17，速度： 234 KB/s =====, 项目同步未必： 137，错误： 0
+2017-07-05 11:45:49: Unlocking folder D:/wwwroot/xzdd/_gsdata_/lock.gsl
+2017-07-05 11:45:49: Unlocking folder ftp://103.231.67.154/_gsdata_/lock.gsl
+2017-07-05 11:45:49: 

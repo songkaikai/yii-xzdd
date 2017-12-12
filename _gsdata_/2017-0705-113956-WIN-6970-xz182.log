@@ -1,0 +1,15 @@
+2017-07-05 11:39:57: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-05 11:39:57: -- Analysis Started by On File Change, After Delay
+2017-07-05 11:39:57: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-05 11:39:58: 变更：5， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 12356
+2017-07-05 11:39:58: Left to Right: Copy File: 5 
+2017-07-05 11:39:58: == Sync Started by On File Change, After Delay
+2017-07-05 11:40:02: 覆盖复制 'D:/wwwroot/xzdd/log/alipay/2017-07-05.log' -> 'ftp://103.231.67.182/log/alipay/2017-07-05.log'
+2017-07-05 11:40:02: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/04/04336c0df543103faf96db3b53e3ad54.bin' -> 'ftp://103.231.67.182/runtime/cache/04/04336c0df543103faf96db3b53e3ad54.bin'
+2017-07-05 11:40:02: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/ae/aee54b7e2675630a2c1eb716c740a088.bin' -> 'ftp://103.231.67.182/runtime/cache/ae/aee54b7e2675630a2c1eb716c740a088.bin'
+2017-07-05 11:40:02: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/ca/ca78023fdca7fd0a29d8072d7e90a3a6.bin' -> 'ftp://103.231.67.182/runtime/cache/ca/ca78023fdca7fd0a29d8072d7e90a3a6.bin'
+2017-07-05 11:40:24: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed during Sync from '[file] size=3,538,704 accu-time=2017-07-05 11:39:49 attr=Archive' to 'size=3,542,867 time=2017-07-05 11:40:24', will be retried
+2017-07-05 11:40:24: Destination side file adjusted to '[file] size=3,538,704 accu-time=2017-07-05 11:40:21 file-time=2017-07-05 11:40:24 attr=Archive', to force retry
+2017-07-05 11:40:24: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.182/runtime/logs/app.log'
+2017-07-05 11:40:26: ===== ：同步完毕。时间：00:00:28，速度： 148 KB/s =====, 项目同步未必： 5，错误： 
+2017-07-05 11:40:26: 

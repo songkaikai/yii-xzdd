@@ -1,0 +1,9 @@
+2017-07-05 01:12:26: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-05 01:12:26: -- Analysis Started by On File Change, After Delay
+2017-07-05 01:12:26: 变更：2， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 12353
+2017-07-05 01:12:26: Left to Right: Copy File: 2 
+2017-07-05 01:12:26: == Sync Started by On File Change, After Delay
+2017-07-05 01:12:27: 覆盖复制 'D:/wwwroot/xzdd/log/alipay/2017-07-05.log' -> 'ftp://103.231.67.182/log/alipay/2017-07-05.log'
+2017-07-05 01:13:08: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.182/runtime/logs/app.log'
+2017-07-05 01:13:10: ===== ：同步完毕。时间：00:00:44，速度： 227 KB/s =====, 项目同步未必： 2，错误： 
+2017-07-05 01:13:10: 

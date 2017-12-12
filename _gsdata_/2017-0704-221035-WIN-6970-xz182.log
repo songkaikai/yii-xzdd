@@ -1,0 +1,17 @@
+2017-07-04 22:10:36: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-04 22:10:36: -- Analysis Started by On File Change, After Delay
+2017-07-04 22:10:36: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-04 22:10:37: 变更：3， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 12349
+2017-07-04 22:10:37: Left to Right: Copy File: 3 
+2017-07-04 22:10:37: == Sync Started by On File Change, After Delay
+2017-07-04 22:10:39: D:/wwwroot/xzdd/log/alipay/2017-07-04.log: Source file has changed during Sync from '[file] size=542,103 accu-time=2017-07-04 22:10:19 attr=Archive' to 'size=543,097 time=2017-07-04 22:10:39', will be retried
+2017-07-04 22:10:39: Destination side file adjusted to '[file] size=542,103 accu-time=2017-07-04 22:10:36 file-time=2017-07-04 22:10:40 attr=Archive', to force retry
+2017-07-04 22:10:39: 覆盖复制 'D:/wwwroot/xzdd/log/alipay/2017-07-04.log' -> 'ftp://103.231.67.182/log/alipay/2017-07-04.log'
+2017-07-04 22:10:39: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/ae/aee54b7e2675630a2c1eb716c740a088.bin' -> 'ftp://103.231.67.182/runtime/cache/ae/aee54b7e2675630a2c1eb716c740a088.bin'
+2017-07-04 22:11:05: D:\wwwroot\xzdd\runtime\logs\app.log: Downloaded 6416956 bytes, MORE than expected 6412991 bytes
+2017-07-04 22:11:07: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed between Analyze and Sync from '[file] size=6,409,163 accu-time=2017-07-04 22:10:31 attr=Archive' to 'size=6,412,991 time=2017-07-04 22:10:38', noted in source file state
+2017-07-04 22:11:07: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed during Sync from '[file] size=6,412,991 accu-time=2017-07-04 22:10:38 attr=Archive' to 'size=6,416,956 time=2017-07-04 22:11:00', will be retried
+2017-07-04 22:11:07: Destination side file adjusted to '[file] size=6,416,956 accu-time=2017-07-04 22:10:57 file-time=2017-07-04 22:11:07 attr=Archive', to force retry
+2017-07-04 22:11:07: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.182/runtime/logs/app.log'
+2017-07-04 22:11:08: ===== ：同步完毕。时间：00:00:31，速度： 225 KB/s =====, 项目同步未必： 3，错误： 
+2017-07-04 22:11:08: 

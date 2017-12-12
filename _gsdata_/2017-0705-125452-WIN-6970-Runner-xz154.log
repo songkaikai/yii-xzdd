@@ -1,0 +1,37 @@
+2017-07-05 12:54:53: Connected to: D:\wwwroot\xzdd: D: NTFS: type=NTFS vol= flags=3E700FF
+2017-07-05 12:54:53: FTP: Use MLST/MLSD command to list files
+2017-07-05 12:54:53: Connected to: ftp://103.231.67.154: FileZilla Server 0.9.60 betawritten by Tim Kosse (tim.kosse@filezilla-project.org)Please visit https://filezilla-project.org/ ...: Syst='UNIX emulated by FileZilla' Feat='Features:: MDTM: REST STREAM: SIZE: MLST type*;size*;modify*;: MLSD: UTF8: CLNT: MFMT: EPSV: EPRT:End'
+2017-07-05 12:54:53: First Full Analyze for On File Change
+2017-07-05 12:54:53: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-05 12:54:53: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2017-07-05 12:54:53: -- Analysis Started by On File Change Incremental, Under Runner
+2017-07-05 12:54:53: ----- ：任务 'xz154'：计算机 'WIN-6970' 上的分析操作已由 On File Change Incremental, Under Runner 所启动 (GoodSync v 10.4.1.5) -----
+2017-07-05 12:54:53: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-05 12:54:53: 排除隐藏属性, 排除系统属性, 已排除 name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2017-07-05 12:54:53: Locking folder D:/wwwroot/xzdd for write
+2017-07-05 12:54:53: 左侧: 读取状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-05 12:54:54: 左侧：文件： 9900 (已排除 0)。文件夹： 2292 (已排除 1)。 Times (s): Folder Scan: 0.516 (23629 f/s), Compare: 0.078 D: NTFS 可用空间：99.2 GB，总计空间：99.9 GB
+2017-07-05 12:54:54: Locking folder ftp://103.231.67.154 for write
+2017-07-05 12:54:54: 右侧: 读取状态文件 ftp://103.231.67.154/_gsdata_/_file_state_v4._gs
+2017-07-05 12:55:09: Change detected [0]: t=Modified path=/runtime/logs/app.log
+2017-07-05 12:55:10: 右侧：文件： 9901 (已排除 0)。文件夹： 2292 (已排除 1)。 Times (s): Folder Scan: 16.672 (731 f/s), Compare: 0.078 ywxzdd FileZilla Server 0.9.60 betawritten by Tim Kosse (tim.kosse@filezilla-project.org)Please visit https://filezilla-project.org/ ... 
+2017-07-05 12:55:11: 同步需要磁盘 file:///D: 上的空间应为 0 字节，目前为 99.2 GB
+2017-07-05 12:55:11: On disk ftp://103.231.67.154 space required for sync is 4.93 MB, free space is unknown
+2017-07-05 12:55:11: 变更：3， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0, All: 12357
+2017-07-05 12:55:11: Left to Right: Copy File: 2 Delete File: 1 
+2017-07-05 12:55:11: ----- ：分析已结束。 历时 00:00:19， 速度： 641 个文件/秒 -----
+2017-07-05 12:55:11: == Sync Started by On File Change Incremental, Under Runner
+2017-07-05 12:55:11: ===== ：任务 'xz154'：同步已被 On File Change Incremental, Under Runner 所启动，位于计算机 'WIN-6970' =====
+2017-07-05 12:55:11: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-05 12:55:11: Load Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-05 12:55:11: 删除文件 'ftp://103.231.67.154/log/console/2017-07-05.log'
+2017-07-05 12:55:13: 覆盖复制 'D:/wwwroot/xzdd/log/alipay/2017-07-05.log' -> 'ftp://103.231.67.154/log/alipay/2017-07-05.log'
+2017-07-05 12:55:33: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed between Analyze and Sync from '[file] size=4630103 accu-time=2017-07-05 12:54:01 attr=Archive' to 'size=4635255 time=2017-07-05 12:55:08', noted in source file state
+2017-07-05 12:55:33: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.154/runtime/logs/app.log'
+2017-07-05 12:55:33: 保存状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-05 12:55:35: 保存状态文件 ftp://103.231.67.154/_gsdata_/_file_state_v4._gs
+2017-07-05 12:55:35: Save Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-05 12:55:35: ===== ：同步完毕。时间：00:00:24，速度： 227 KB/s =====, 项目同步未必： 3，错误： 0
+2017-07-05 12:55:35: Unlocking folder D:/wwwroot/xzdd/_gsdata_/lock.gsl
+2017-07-05 12:55:35: Unlocking folder ftp://103.231.67.154/_gsdata_/lock.gsl
+2017-07-05 12:55:35: 

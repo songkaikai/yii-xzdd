@@ -1,0 +1,188 @@
+2017-07-03 13:42:09: Connected to: D:\wwwroot\xzdd: D: NTFS: type=NTFS vol= flags=3E700FF
+2017-07-03 13:42:09: FTP: Use MLST/MLSD command to list files
+2017-07-03 13:42:09: Connected to: ftp://103.231.67.182: FileZilla Server 0.9.60 betawritten by Tim Kosse (tim.kosse@filezilla-project.org)Please visit https://filezilla-project.org/ ...: Syst='UNIX emulated by FileZilla' Feat='Features:: MDTM: REST STREAM: SIZE: MLST type*;size*;modify*;: MLSD: UTF8: CLNT: MFMT: EPSV: EPRT:End'
+2017-07-03 13:42:09: Incremental Analyze for On File Change
+2017-07-03 13:42:09: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-03 13:42:09: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2017-07-03 13:42:09: -- Analysis Started by On File Change, After Delay, Under Runner
+2017-07-03 13:42:09: ----- ：任务 'xz'：计算机 'WIN-6970' 上的分析操作已由 On File Change, After Delay, Under Runner 所启动 (GoodSync v 10.4.1.5) -----
+2017-07-03 13:42:09: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] [NoListDir-TrustStateFile] =PropDels=> ftp://103.231.67.182 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-03 13:42:09: 排除隐藏属性, 排除系统属性, 已排除 name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2017-07-03 13:42:09: Locking folder D:/wwwroot/xzdd for write
+2017-07-03 13:42:09: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-03 13:42:09: 左侧: 读取状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-03 13:42:10: Change in: D:/wwwroot/xzdd/runtime/cache/7c/7c1094dc7f135b717e43ea4e7cbba01f.bin
+2017-07-03 13:42:10: Change in: D:/wwwroot/xzdd/runtime/cache/7c/7c1094dc7f135b717e43ea4e7cbba01f.bin
+2017-07-03 13:42:10: Change in: D:/wwwroot/xzdd/runtime/cache/7c/7c1094dc7f135b717e43ea4e7cbba01f.bin
+2017-07-03 13:42:10: Change in: D:/wwwroot/xzdd/runtime/cache/7c/7c1094dc7f135b717e43ea4e7cbba01f.bin
+2017-07-03 13:42:10: Change in: D:/wwwroot/xzdd/runtime/cache/f6/f6a1b2e08ca049a3271860f2859eabb5.bin
+2017-07-03 13:42:10: Change in: D:/wwwroot/xzdd/runtime/cache/f6/f6a1b2e08ca049a3271860f2859eabb5.bin
+2017-07-03 13:42:10: Change in: D:/wwwroot/xzdd/runtime/cache/f6/f6a1b2e08ca049a3271860f2859eabb5.bin
+2017-07-03 13:42:10: Change in: D:/wwwroot/xzdd/runtime/cache/f6/f6a1b2e08ca049a3271860f2859eabb5.bin
+2017-07-03 13:42:10: Change in: D:/wwwroot/xzdd/runtime/cache/46/46626992c3507d9c0b0f34d45e535466.bin
+2017-07-03 13:42:10: Change in: D:/wwwroot/xzdd/runtime/cache/46/46626992c3507d9c0b0f34d45e535466.bin
+2017-07-03 13:42:10: Change in: D:/wwwroot/xzdd/runtime/cache/46/46626992c3507d9c0b0f34d45e535466.bin
+2017-07-03 13:42:10: Change in: D:/wwwroot/xzdd/runtime/cache/46/46626992c3507d9c0b0f34d45e535466.bin
+2017-07-03 13:42:10: Locking folder ftp://103.231.67.182 for write
+2017-07-03 13:42:10: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bolt/index.html: Sync will delete Folder /vendor/fortawesome/font-awesome/src/3.2.1/icon/bolt on Right because it is deleted on Left, File /vendor/fortawesome/font-awesome/src/3.2.1/icon/bolt/index.html changed on Right (Vertical Conflict)
+2017-07-03 13:42:10: 同步需要磁盘 file:///D: 上的空间应为 0 字节，目前为 99.2 GB
+2017-07-03 13:42:10: On disk ftp://103.231.67.182 space required for sync is 23.0 KB, free space is unknown
+2017-07-03 13:42:10: 分析完毕并发现冲突情况。如需解决冲突请选择正常的同步方向。
+2017-07-03 13:42:10: 变更：5， 冲突：2， 复制时间：0， 复制状态：0/10， 错误： 0, All: 12184
+2017-07-03 13:42:10: Left to Right: Copy File: 3 
+2017-07-03 13:42:10: ----- ：分析已结束。 历时 00:00:02， 速度： 6014 个文件/秒 -----
+2017-07-03 13:42:10: == Sync Started by On File Change, After Delay, Under Runner
+2017-07-03 13:42:10: ===== ：任务 'xz'：同步已被 On File Change, After Delay, Under Runner 所启动，位于计算机 'WIN-6970' =====
+2017-07-03 13:42:10: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] [NoListDir-TrustStateFile] =PropDels=> ftp://103.231.67.182 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-03 13:42:10: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/book/index.html
+2017-07-03 13:42:10: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/book
+2017-07-03 13:42:10: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bookmark/index.html
+2017-07-03 13:42:10: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bookmark
+2017-07-03 13:42:10: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bookmark-empty/index.html
+2017-07-03 13:42:10: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bookmark-empty
+2017-07-03 13:42:10: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/briefcase/index.html
+2017-07-03 13:42:10: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/briefcase
+2017-07-03 13:42:10: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/btc/index.html
+2017-07-03 13:42:10: Sync State Merge: /vendor/fortawesome/font-awesome/src/3.2.1/icon/btc
+2017-07-03 13:42:10: Load Recycled DB: ftp://103.231.67.182/_gsdata_/_recycled_db._gs
+2017-07-03 13:42:10: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/46/46626992c3507d9c0b0f34d45e535466.bin' -> 'ftp://103.231.67.182/runtime/cache/46/46626992c3507d9c0b0f34d45e535466.bin'
+2017-07-03 13:42:10: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/7c/7c1094dc7f135b717e43ea4e7cbba01f.bin' -> 'ftp://103.231.67.182/runtime/cache/7c/7c1094dc7f135b717e43ea4e7cbba01f.bin'
+2017-07-03 13:42:10: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/f6/f6a1b2e08ca049a3271860f2859eabb5.bin' -> 'ftp://103.231.67.182/runtime/cache/f6/f6a1b2e08ca049a3271860f2859eabb5.bin'
+2017-07-03 13:42:10: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bolt/index.html: unresolved conflict results in No Copy
+2017-07-03 13:42:10: /vendor/fortawesome/font-awesome/src/3.2.1/icon/bolt: unresolved conflict results in No Copy
+2017-07-03 13:42:11: 保存状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-03 13:42:12: 保存状态文件 ftp://103.231.67.182/_gsdata_/_file_state_v4._gs
+2017-07-03 13:42:12: 同步完成，未解决的冲突数为 2 。点击冲突按钮即可查看未解决的冲突情况。
+2017-07-03 13:42:12: Cleanup recycled files in D:/wwwroot/xzdd/_gsdata_/_saved_
+2017-07-03 13:42:12: Cleanup old logs in C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd
+2017-07-03 13:42:12: Cleanup old logs in D:/wwwroot/xzdd/_gsdata_
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-161816-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-161822-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-161831-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-161837-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-161849-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-161855-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-174522-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-174528-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-174552-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-174558-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-174646-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-174652-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-174907-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-174913-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-215537-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0626-215543-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-092206-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-092212-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-092339-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-092345-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-103515-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-103521-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-103545-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-103551-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-103600-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-103751-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-103757-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-123527-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-123533-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-123700-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-123706-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-123730-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-123736-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-124015-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-124021-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-124027-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-124354-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-124400-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-132712-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd/2017-0627-132718-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-161816-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-161822-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-161831-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-161837-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-161849-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-161855-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-174522-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-174528-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-174552-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-174558-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-174646-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-174652-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-174907-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-174913-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-215537-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0626-215543-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-092206-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-092212-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-092339-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-092345-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-103515-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-103521-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-103545-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-103551-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-103600-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-103751-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-103757-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-123527-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-123533-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-123700-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-123706-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-123730-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-123736-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-124015-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-124021-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-124027-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-124354-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-124400-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-132712-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0627-132718-WIN-QMITME8075J-Runner-xz154.log
+2017-07-03 13:42:12: Cleanup recycled files in ftp://103.231.67.182/_gsdata_/_saved_
+2017-07-03 13:42:12: Save Recycled DB: ftp://103.231.67.182/_gsdata_/_recycled_db._gs
+2017-07-03 13:42:12: Cleanup old logs in C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182
+2017-07-03 13:42:12: Cleanup old logs in ftp://103.231.67.182/_gsdata_
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0626-161816-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0626-161831-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0626-161849-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0626-174522-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0626-174552-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0626-174646-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0626-174907-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0626-215537-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0627-092206-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0627-092339-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0627-103515-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0627-103545-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0627-103600-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0627-103751-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0627-123527-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0627-123700-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0627-123730-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0627-124015-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0627-124027-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0627-124354-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.182/2017-0627-132712-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0626-161816-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0626-161831-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0626-161849-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0626-174522-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0626-174552-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0626-174646-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0626-174907-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0626-215537-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0627-092206-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0627-092339-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0627-103515-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0627-103545-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0627-103600-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0627-103751-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0627-123527-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0627-123700-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0627-123730-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0627-124015-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0627-124027-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0627-124354-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: Delete log ftp://103.231.67.182/_gsdata_/2017-0627-132712-WIN-QMITME8075J-Runner-xz.log
+2017-07-03 13:42:12: ===== ：同步完毕。时间：00:00:02，速度： 207 KB/s =====, 项目同步未必： 13，错误： 0, Conflicts: 2
+2017-07-03 13:42:12: Deleted lock file D:/wwwroot/xzdd/_gsdata_/lock.gsl
+2017-07-03 13:42:12: Deleted lock file ftp://103.231.67.182/_gsdata_/lock.gsl
+2017-07-03 13:42:12: 

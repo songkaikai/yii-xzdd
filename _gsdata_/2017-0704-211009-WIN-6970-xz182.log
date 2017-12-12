@@ -1,0 +1,20 @@
+2017-07-04 21:10:11: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-04 21:10:11: -- Analysis Started by On File Change, After Delay
+2017-07-04 21:10:11: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-04 21:10:11: 变更：7， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 12336
+2017-07-04 21:10:11: Left to Right: Copy File: 7 
+2017-07-04 21:10:11: == Sync Started by On File Change, After Delay
+2017-07-04 21:10:12: 创建文件夹 'ftp://103.231.67.182/web/xz'
+2017-07-04 21:10:12: 创建文件夹 'ftp://103.231.67.182/web/xz/app'
+2017-07-04 21:10:13: D:/wwwroot/xzdd/log/alipay/2017-07-04.log: Source file has changed between Analyze and Sync from '[file] size=264,483 accu-time=2017-07-04 21:09:53 attr=Archive' to 'size=265,477 time=2017-07-04 21:10:11', noted in source file state
+2017-07-04 21:10:13: 覆盖复制 'D:/wwwroot/xzdd/log/alipay/2017-07-04.log' -> 'ftp://103.231.67.182/log/alipay/2017-07-04.log'
+2017-07-04 21:10:31: D:\wwwroot\xzdd\runtime\logs\app.log: Downloaded 4645783 bytes, MORE than expected 4627293 bytes
+2017-07-04 21:10:33: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed during Sync from '[file] size=4,627,293 accu-time=2017-07-04 21:10:10 attr=Archive' to 'size=4,645,783 time=2017-07-04 21:10:28', will be retried
+2017-07-04 21:10:33: Destination side file adjusted to '[file] size=4,645,783 accu-time=2017-07-04 21:10:25 file-time=2017-07-04 21:10:33 attr=Archive', to force retry
+2017-07-04 21:10:33: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.182/runtime/logs/app.log'
+2017-07-04 21:10:35: 新建复制 'D:/wwwroot/xzdd/web/xz/app/512.png' -> 'ftp://103.231.67.182/web/xz/app/512.png'
+2017-07-04 21:10:35: 新建复制 'D:/wwwroot/xzdd/web/xz/app/57x57@2x.png' -> 'ftp://103.231.67.182/web/xz/app/57x57@2x.png'
+2017-07-04 21:11:23: D:/wwwroot/xzdd/web/xz/app/xuezhan.ipa: Source file has changed between Analyze and Sync from '[file] size=18,484,881 accu-time=2017-07-04 21:09:28 attr=Archive' to 'size=11,107,620 time=2017-07-04 15:59:50', noted in source file state
+2017-07-04 21:11:23: 新建复制 'D:/wwwroot/xzdd/web/xz/app/xuezhan.ipa' -> 'ftp://103.231.67.182/web/xz/app/xuezhan.ipa'
+2017-07-04 21:11:24: ===== ：同步完毕。时间：00:01:13，速度： 321 KB/s =====, 项目同步未必： 7，错误： 
+2017-07-04 21:11:24: 

@@ -1,0 +1,14 @@
+2017-07-04 21:58:57: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-04 21:58:57: -- Analysis Started by On File Change, After Delay
+2017-07-04 21:58:57: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-04 21:58:57: 变更：2， 冲突：， 复制时间：， 复制状态：/1， 错误： , All: 12349
+2017-07-04 21:58:57: Left to Right: Copy File: 2 
+2017-07-04 21:58:57: == Sync Started by On File Change, After Delay
+2017-07-04 21:59:00: 覆盖复制 'D:/wwwroot/xzdd/log/alipay/2017-07-04.log' -> 'ftp://103.231.67.182/log/alipay/2017-07-04.log'
+2017-07-04 21:59:24: D:\wwwroot\xzdd\runtime\logs\app.log: Downloaded 6196869 bytes, MORE than expected 6184790 bytes
+2017-07-04 21:59:26: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed between Analyze and Sync from '[file] size=6,180,707 accu-time=2017-07-04 21:58:47 attr=Archive' to 'size=6,184,790 time=2017-07-04 21:58:58', noted in source file state
+2017-07-04 21:59:26: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed during Sync from '[file] size=6,184,790 accu-time=2017-07-04 21:58:58 attr=Archive' to 'size=6,196,869 time=2017-07-04 21:59:22', will be retried
+2017-07-04 21:59:26: Destination side file adjusted to '[file] size=6,196,869 accu-time=2017-07-04 21:59:19 file-time=2017-07-04 21:59:26 attr=Archive', to force retry
+2017-07-04 21:59:26: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.182/runtime/logs/app.log'
+2017-07-04 21:59:28: ===== ：同步完毕。时间：00:00:31，速度： 223 KB/s =====, 项目同步未必： 3，错误： 
+2017-07-04 21:59:28: 

@@ -1,0 +1,11 @@
+2017-07-03 14:14:55: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-03 14:14:55: -- Analysis Started by On File Change, After Delay
+2017-07-03 14:14:55: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-03 14:14:56: 变更：3， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 12184
+2017-07-03 14:14:56: Left to Right: Copy File: 3 
+2017-07-03 14:14:56: == Sync Started by On File Change, After Delay
+2017-07-03 14:14:56: 创建文件夹 'ftp://103.231.67.182/runtime/cache/f1'
+- 错误: Cannot create folder: Server says: Directory already exists
+2017-07-03 14:14:56: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/88/88d56a1e3f7548ed49d338bf13649a96.bin' -> 'ftp://103.231.67.182/runtime/cache/88/88d56a1e3f7548ed49d338bf13649a96.bin'
+2017-07-03 14:14:57: ===== ：同步完毕。时间：00:00:01，速度： 184 KB/s =====, 项目同步未必： 1，错误： 1
+2017-07-03 14:14:57: 

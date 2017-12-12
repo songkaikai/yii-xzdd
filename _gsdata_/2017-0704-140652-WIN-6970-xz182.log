@@ -1,0 +1,19 @@
+2017-07-04 14:06:53: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-04 14:06:53: -- Analysis Started by On File Change, After Delay
+2017-07-04 14:06:53: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-04 14:06:54: 变更：11， 冲突：， 复制时间：， 复制状态：/11， 错误： , All: 12322
+2017-07-04 14:06:54: Left to Right: Copy File: 1 Delete File: 10 
+2017-07-04 14:06:54: == Sync Started by On File Change, After Delay
+2017-07-04 14:06:54: 删除文件 'ftp://103.231.67.182/controllers/AccountController.php'
+2017-07-04 14:06:54: 删除文件 'ftp://103.231.67.182/controllers/AddressController.php'
+2017-07-04 14:06:54: 删除文件 'ftp://103.231.67.182/controllers/HomeController.php'
+2017-07-04 14:06:54: 删除文件 'ftp://103.231.67.182/controllers/InfoController.php'
+2017-07-04 14:06:54: 删除文件 'ftp://103.231.67.182/controllers/LicaiOrderController.php'
+2017-07-04 14:06:54: 删除文件 'ftp://103.231.67.182/controllers/MemberController.php'
+2017-07-04 14:06:54: 删除文件 'ftp://103.231.67.182/controllers/OrdersController.php'
+2017-07-04 14:06:54: 删除文件 'ftp://103.231.67.182/controllers/SiteController.php'
+2017-07-04 14:06:54: 删除文件 'ftp://103.231.67.182/controllers/TestController.php'
+2017-07-04 14:06:54: 删除文件 'ftp://103.231.67.182/controllers/WithdrawController.php'
+2017-07-04 14:06:54: 覆盖复制 'D:/wwwroot/xzdd/log/alipay/2017-07-04.log' -> 'ftp://103.231.67.182/log/alipay/2017-07-04.log'
+2017-07-04 14:06:56: ===== ：同步完毕。时间：00:00:02，速度： 203 KB/s =====, 项目同步未必： 22，错误： 
+2017-07-04 14:06:56: 

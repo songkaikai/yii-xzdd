@@ -1,0 +1,174 @@
+2017-07-03 14:20:31: Connected to: D:\wwwroot\xzdd: D: NTFS: type=NTFS vol= flags=3E700FF
+2017-07-03 14:20:31: FTP: Use MLST/MLSD command to list files
+2017-07-03 14:20:31: Connected to: ftp://103.231.67.154: FileZilla Server 0.9.60 betawritten by Tim Kosse (tim.kosse@filezilla-project.org)Please visit https://filezilla-project.org/ ...: Syst='UNIX emulated by FileZilla' Feat='Features:: MDTM: REST STREAM: SIZE: MLST type*;size*;modify*;: MLSD: UTF8: CLNT: MFMT: EPSV: EPRT:End'
+2017-07-03 14:20:31: First Full Analyze for On File Change
+2017-07-03 14:20:31: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-03 14:20:31: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2017-07-03 14:20:31: -- Analysis Started by On File Change Incremental, Under Runner
+2017-07-03 14:20:31: ----- ：任务 'xz154'：计算机 'WIN-6970' 上的分析操作已由 On File Change Incremental, Under Runner 所启动 (GoodSync v 10.4.1.5) -----
+2017-07-03 14:20:31: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-03 14:20:31: 排除隐藏属性, 排除系统属性, 已排除 name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2017-07-03 14:20:31: Locking folder D:/wwwroot/xzdd for write
+2017-07-03 14:20:31: 左侧: 读取状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-03 14:20:31: 左侧：文件： 9884 (已排除 0)。文件夹： 2281 (已排除 1)。 Times (s): Folder Scan: 0.485 (25084 f/s), Compare: 0.078 D: NTFS 可用空间：99.2 GB，总计空间：99.9 GB
+2017-07-03 14:20:31: Locking folder ftp://103.231.67.154 for write
+2017-07-03 14:20:31: 右侧: 读取状态文件 ftp://103.231.67.154/_gsdata_/_file_state_v4._gs
+2017-07-03 14:20:37: Change detected [0]: t=Modified path=/runtime/logs/app.log
+2017-07-03 14:20:38: Change detected [0]: t=Modified path=/runtime/logs/app.log
+2017-07-03 14:20:42: 右侧：文件： 9788 (已排除 0)。文件夹： 2260 (已排除 1)。 Times (s): Folder Scan: 10.890 (1106 f/s), Compare: 0.078 ywxzdd FileZilla Server 0.9.60 betawritten by Tim Kosse (tim.kosse@filezilla-project.org)Please visit https://filezilla-project.org/ ... 
+2017-07-03 14:20:43: /runtime/cache/e0/e06071f5cce8ce9c32bf29f97f8d7794.bin: 警告：旧文件将替换新文件
+2017-07-03 14:20:43: 同步需要磁盘 file:///D: 上的空间应为 0 字节，目前为 99.2 GB
+2017-07-03 14:20:43: On disk ftp://103.231.67.154 space required for sync is 6.82 MB, free space is unknown
+2017-07-03 14:20:43: 变更：137， 冲突：0， 复制时间：0， 复制状态：0/1， 错误： 0, All: 12310
+2017-07-03 14:20:43: Left to Right: Copy File: 128 Delete File: 9 
+2017-07-03 14:20:43: ----- ：分析已结束。 历时 00:00:13， 速度： 936 个文件/秒 -----
+2017-07-03 14:20:43: == Sync Started by On File Change Incremental, Under Runner
+2017-07-03 14:20:43: ===== ：任务 'xz154'：同步已被 On File Change Incremental, Under Runner 所启动，位于计算机 'WIN-6970' =====
+2017-07-03 14:20:43: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-03 14:20:43: Load Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-03 14:20:43: 删除文件 'ftp://103.231.67.154/log/console/2017-06-27.log'
+2017-07-03 14:20:43: 删除文件 'ftp://103.231.67.154/log/console/2017-06-28.log'
+2017-07-03 14:20:43: 删除文件 'ftp://103.231.67.154/log/console/2017-06-29.log'
+2017-07-03 14:20:43: 删除文件 'ftp://103.231.67.154/log/console/2017-06-30.log'
+2017-07-03 14:20:43: 删除文件 'ftp://103.231.67.154/log/console/2017-07-01.log'
+2017-07-03 14:20:43: 删除文件 'ftp://103.231.67.154/log/console/2017-07-02.log'
+2017-07-03 14:20:43: 删除文件 'ftp://103.231.67.154/log/console/2017-07-03.log'
+2017-07-03 14:20:43: 删除文件 'ftp://103.231.67.154/runtime/cache/2a/2a7e298cd6cf318107c1eba59bc32bf8.bin'
+2017-07-03 14:20:43: 删除文件夹 'ftp://103.231.67.154/runtime/cache/2a'
+2017-07-03 14:20:43: Sync State Merge: /runtime/cache/f1/f154a0a7c80b8fa1576703610e8978fc.bin
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/runtime/cache/04'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/runtime/cache/ca'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/runtime/cache/f9'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/47ed1217'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/4abdce1f'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/4abdce1f/css'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/4abdce1f/fonts'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/5f7d6532'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/5f7d6532/css'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/5f7d6532/img'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/5f7d6532/img/credit'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/5f7d6532/js'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/5f7d6532/js/pages'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/8bf5b633'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/8bf5b633/css'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/8bf5b633/js'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/c0f6d411'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/ddea54c9'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/ddea54c9/css'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/ddea54c9/fonts'
+2017-07-03 14:20:43: 创建文件夹 'ftp://103.231.67.154/web/assets/ddea54c9/js'
+2017-07-03 14:20:43: 新建复制 'D:/wwwroot/xzdd/runtime/cache/04/04336c0df543103faf96db3b53e3ad54.bin' -> 'ftp://103.231.67.154/runtime/cache/04/04336c0df543103faf96db3b53e3ad54.bin'
+2017-07-03 14:20:43: 新建复制 'D:/wwwroot/xzdd/runtime/cache/ca/ca78023fdca7fd0a29d8072d7e90a3a6.bin' -> 'ftp://103.231.67.154/runtime/cache/ca/ca78023fdca7fd0a29d8072d7e90a3a6.bin'
+2017-07-03 14:20:43: 覆盖复制 'D:/wwwroot/xzdd/runtime/cache/e0/e06071f5cce8ce9c32bf29f97f8d7794.bin' -> 'ftp://103.231.67.154/runtime/cache/e0/e06071f5cce8ce9c32bf29f97f8d7794.bin'
+2017-07-03 14:20:43: 新建复制 'D:/wwwroot/xzdd/runtime/cache/f9/f90ab1de9bef54e4a8c4bd9bde61f092.bin' -> 'ftp://103.231.67.154/runtime/cache/f9/f90ab1de9bef54e4a8c4bd9bde61f092.bin'
+2017-07-03 14:20:46: D:/wwwroot/xzdd/runtime/logs/app.log: Source file has changed between Analyze and Sync from '[file] size=743759 accu-time=2017-07-03 14:20:27 attr=Archive' to 'size=751801 time=2017-07-03 14:20:38', noted in source file state
+2017-07-03 14:20:46: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.154/runtime/logs/app.log'
+2017-07-03 14:20:46: 新建复制 'D:/wwwroot/xzdd/web/assets/47ed1217/bower.json' -> 'ftp://103.231.67.154/web/assets/47ed1217/bower.json'
+2017-07-03 14:20:46: 新建复制 'D:/wwwroot/xzdd/web/assets/47ed1217/CHANGELOG.md' -> 'ftp://103.231.67.154/web/assets/47ed1217/CHANGELOG.md'
+2017-07-03 14:20:46: 新建复制 'D:/wwwroot/xzdd/web/assets/47ed1217/jquery.pjax.js' -> 'ftp://103.231.67.154/web/assets/47ed1217/jquery.pjax.js'
+2017-07-03 14:20:46: 新建复制 'D:/wwwroot/xzdd/web/assets/47ed1217/LICENSE' -> 'ftp://103.231.67.154/web/assets/47ed1217/LICENSE'
+2017-07-03 14:20:46: 新建复制 'D:/wwwroot/xzdd/web/assets/47ed1217/package.json' -> 'ftp://103.231.67.154/web/assets/47ed1217/package.json'
+2017-07-03 14:20:46: 新建复制 'D:/wwwroot/xzdd/web/assets/47ed1217/README.md' -> 'ftp://103.231.67.154/web/assets/47ed1217/README.md'
+2017-07-03 14:20:47: 新建复制 'D:/wwwroot/xzdd/web/assets/4abdce1f/css/font-awesome.css' -> 'ftp://103.231.67.154/web/assets/4abdce1f/css/font-awesome.css'
+2017-07-03 14:20:47: 新建复制 'D:/wwwroot/xzdd/web/assets/4abdce1f/css/font-awesome.css.map' -> 'ftp://103.231.67.154/web/assets/4abdce1f/css/font-awesome.css.map'
+2017-07-03 14:20:47: 新建复制 'D:/wwwroot/xzdd/web/assets/4abdce1f/css/font-awesome.min.css' -> 'ftp://103.231.67.154/web/assets/4abdce1f/css/font-awesome.min.css'
+2017-07-03 14:20:48: 新建复制 'D:/wwwroot/xzdd/web/assets/4abdce1f/fonts/fontawesome-webfont.eot' -> 'ftp://103.231.67.154/web/assets/4abdce1f/fonts/fontawesome-webfont.eot'
+2017-07-03 14:20:50: 新建复制 'D:/wwwroot/xzdd/web/assets/4abdce1f/fonts/fontawesome-webfont.svg' -> 'ftp://103.231.67.154/web/assets/4abdce1f/fonts/fontawesome-webfont.svg'
+2017-07-03 14:20:50: 新建复制 'D:/wwwroot/xzdd/web/assets/4abdce1f/fonts/fontawesome-webfont.ttf' -> 'ftp://103.231.67.154/web/assets/4abdce1f/fonts/fontawesome-webfont.ttf'
+2017-07-03 14:20:51: 新建复制 'D:/wwwroot/xzdd/web/assets/4abdce1f/fonts/fontawesome-webfont.woff' -> 'ftp://103.231.67.154/web/assets/4abdce1f/fonts/fontawesome-webfont.woff'
+2017-07-03 14:20:51: 新建复制 'D:/wwwroot/xzdd/web/assets/4abdce1f/fonts/fontawesome-webfont.woff2' -> 'ftp://103.231.67.154/web/assets/4abdce1f/fonts/fontawesome-webfont.woff2'
+2017-07-03 14:20:52: 新建复制 'D:/wwwroot/xzdd/web/assets/4abdce1f/fonts/FontAwesome.otf' -> 'ftp://103.231.67.154/web/assets/4abdce1f/fonts/FontAwesome.otf'
+2017-07-03 14:20:52: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/AdminLTE.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/AdminLTE.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/AdminLTE.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/AdminLTE.min.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/_all-skins.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/_all-skins.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/_all-skins.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/_all-skins.min.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-black-light.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-black-light.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-black-light.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-black-light.min.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-black.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-black.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-black.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-black.min.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-blue-light.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-blue-light.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-blue-light.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-blue-light.min.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-blue.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-blue.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-blue.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-blue.min.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-green-light.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-green-light.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-green-light.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-green-light.min.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-green.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-green.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-green.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-green.min.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-purple-light.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-purple-light.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-purple-light.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-purple-light.min.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-purple.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-purple.css'
+2017-07-03 14:20:53: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-purple.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-purple.min.css'
+2017-07-03 14:20:54: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-red-light.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-red-light.css'
+2017-07-03 14:20:54: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-red-light.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-red-light.min.css'
+2017-07-03 14:20:54: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-red.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-red.css'
+2017-07-03 14:20:54: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-red.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-red.min.css'
+2017-07-03 14:20:54: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-yellow-light.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-yellow-light.css'
+2017-07-03 14:20:54: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-yellow-light.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-yellow-light.min.css'
+2017-07-03 14:20:54: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-yellow.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-yellow.css'
+2017-07-03 14:20:54: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/css/skins/skin-yellow.min.css' -> 'ftp://103.231.67.154/web/assets/5f7d6532/css/skins/skin-yellow.min.css'
+2017-07-03 14:20:54: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/avatar.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/avatar.png'
+2017-07-03 14:20:54: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/avatar04.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/avatar04.png'
+2017-07-03 14:20:54: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/avatar2.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/avatar2.png'
+2017-07-03 14:20:54: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/avatar3.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/avatar3.png'
+2017-07-03 14:20:54: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/avatar5.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/avatar5.png'
+2017-07-03 14:20:55: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/boxed-bg.jpg' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/boxed-bg.jpg'
+2017-07-03 14:20:55: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/boxed-bg.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/boxed-bg.png'
+2017-07-03 14:20:55: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/credit/american-express.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/credit/american-express.png'
+2017-07-03 14:20:55: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/credit/cirrus.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/credit/cirrus.png'
+2017-07-03 14:20:55: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/credit/mastercard.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/credit/mastercard.png'
+2017-07-03 14:20:55: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/credit/mestro.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/credit/mestro.png'
+2017-07-03 14:20:55: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/credit/paypal.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/credit/paypal.png'
+2017-07-03 14:20:55: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/credit/paypal2.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/credit/paypal2.png'
+2017-07-03 14:20:55: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/credit/visa.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/credit/visa.png'
+2017-07-03 14:20:55: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/default-50x50.gif' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/default-50x50.gif'
+2017-07-03 14:20:55: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/icons.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/icons.png'
+2017-07-03 14:20:58: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/photo1.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/photo1.png'
+2017-07-03 14:21:00: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/photo2.png' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/photo2.png'
+2017-07-03 14:21:01: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/photo3.jpg' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/photo3.jpg'
+2017-07-03 14:21:06: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/photo4.jpg' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/photo4.jpg'
+2017-07-03 14:21:06: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/user1-128x128.jpg' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/user1-128x128.jpg'
+2017-07-03 14:21:06: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/user2-160x160.jpg' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/user2-160x160.jpg'
+2017-07-03 14:21:06: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/user3-128x128.jpg' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/user3-128x128.jpg'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/user4-128x128.jpg' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/user4-128x128.jpg'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/user5-128x128.jpg' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/user5-128x128.jpg'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/user6-128x128.jpg' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/user6-128x128.jpg'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/user7-128x128.jpg' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/user7-128x128.jpg'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/img/user8-128x128.jpg' -> 'ftp://103.231.67.154/web/assets/5f7d6532/img/user8-128x128.jpg'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/js/app.js' -> 'ftp://103.231.67.154/web/assets/5f7d6532/js/app.js'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/js/app.min.js' -> 'ftp://103.231.67.154/web/assets/5f7d6532/js/app.min.js'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/js/demo.js' -> 'ftp://103.231.67.154/web/assets/5f7d6532/js/demo.js'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/js/pages/dashboard.js' -> 'ftp://103.231.67.154/web/assets/5f7d6532/js/pages/dashboard.js'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/5f7d6532/js/pages/dashboard2.js' -> 'ftp://103.231.67.154/web/assets/5f7d6532/js/pages/dashboard2.js'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/8bf5b633/css/activeform.css' -> 'ftp://103.231.67.154/web/assets/8bf5b633/css/activeform.css'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/8bf5b633/css/activeform.min.css' -> 'ftp://103.231.67.154/web/assets/8bf5b633/css/activeform.min.css'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/8bf5b633/js/activeform.js' -> 'ftp://103.231.67.154/web/assets/8bf5b633/js/activeform.js'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/8bf5b633/js/activeform.min.js' -> 'ftp://103.231.67.154/web/assets/8bf5b633/js/activeform.min.js'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/c0f6d411/animate.css' -> 'ftp://103.231.67.154/web/assets/c0f6d411/animate.css'
+2017-07-03 14:21:07: 新建复制 'D:/wwwroot/xzdd/web/assets/c0f6d411/jquery-ui.css' -> 'ftp://103.231.67.154/web/assets/c0f6d411/jquery-ui.css'
+2017-07-03 14:21:08: 新建复制 'D:/wwwroot/xzdd/web/assets/c0f6d411/jquery-ui.js' -> 'ftp://103.231.67.154/web/assets/c0f6d411/jquery-ui.js'
+2017-07-03 14:21:08: 新建复制 'D:/wwwroot/xzdd/web/assets/c0f6d411/list-item.css' -> 'ftp://103.231.67.154/web/assets/c0f6d411/list-item.css'
+2017-07-03 14:21:08: 新建复制 'D:/wwwroot/xzdd/web/assets/c0f6d411/main.css' -> 'ftp://103.231.67.154/web/assets/c0f6d411/main.css'
+2017-07-03 14:21:08: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/css/bootstrap-theme.css' -> 'ftp://103.231.67.154/web/assets/ddea54c9/css/bootstrap-theme.css'
+2017-07-03 14:21:08: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/css/bootstrap-theme.css.map' -> 'ftp://103.231.67.154/web/assets/ddea54c9/css/bootstrap-theme.css.map'
+2017-07-03 14:21:08: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/css/bootstrap-theme.min.css' -> 'ftp://103.231.67.154/web/assets/ddea54c9/css/bootstrap-theme.min.css'
+2017-07-03 14:21:08: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/css/bootstrap-theme.min.css.map' -> 'ftp://103.231.67.154/web/assets/ddea54c9/css/bootstrap-theme.min.css.map'
+2017-07-03 14:21:09: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/css/bootstrap.css' -> 'ftp://103.231.67.154/web/assets/ddea54c9/css/bootstrap.css'
+2017-07-03 14:21:11: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/css/bootstrap.css.map' -> 'ftp://103.231.67.154/web/assets/ddea54c9/css/bootstrap.css.map'
+2017-07-03 14:21:11: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/css/bootstrap.min.css' -> 'ftp://103.231.67.154/web/assets/ddea54c9/css/bootstrap.min.css'
+2017-07-03 14:21:13: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/css/bootstrap.min.css.map' -> 'ftp://103.231.67.154/web/assets/ddea54c9/css/bootstrap.min.css.map'
+2017-07-03 14:21:14: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/fonts/glyphicons-halflings-regular.eot' -> 'ftp://103.231.67.154/web/assets/ddea54c9/fonts/glyphicons-halflings-regular.eot'
+2017-07-03 14:21:14: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/fonts/glyphicons-halflings-regular.svg' -> 'ftp://103.231.67.154/web/assets/ddea54c9/fonts/glyphicons-halflings-regular.svg'
+2017-07-03 14:21:14: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/fonts/glyphicons-halflings-regular.ttf' -> 'ftp://103.231.67.154/web/assets/ddea54c9/fonts/glyphicons-halflings-regular.ttf'
+2017-07-03 14:21:14: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/fonts/glyphicons-halflings-regular.woff' -> 'ftp://103.231.67.154/web/assets/ddea54c9/fonts/glyphicons-halflings-regular.woff'
+2017-07-03 14:21:14: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/fonts/glyphicons-halflings-regular.woff2' -> 'ftp://103.231.67.154/web/assets/ddea54c9/fonts/glyphicons-halflings-regular.woff2'
+2017-07-03 14:21:15: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/js/bootstrap.js' -> 'ftp://103.231.67.154/web/assets/ddea54c9/js/bootstrap.js'
+2017-07-03 14:21:15: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/js/bootstrap.min.js' -> 'ftp://103.231.67.154/web/assets/ddea54c9/js/bootstrap.min.js'
+2017-07-03 14:21:15: 新建复制 'D:/wwwroot/xzdd/web/assets/ddea54c9/js/npm.js' -> 'ftp://103.231.67.154/web/assets/ddea54c9/js/npm.js'
+2017-07-03 14:21:15: 保存状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-03 14:21:16: 保存状态文件 ftp://103.231.67.154/_gsdata_/_file_state_v4._gs
+2017-07-03 14:21:16: Save Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-03 14:21:16: ===== ：同步完毕。时间：00:00:33，速度： 216 KB/s =====, 项目同步未必： 138，错误： 0
+2017-07-03 14:21:16: Unlocking folder D:/wwwroot/xzdd/_gsdata_/lock.gsl
+2017-07-03 14:21:16: Unlocking folder ftp://103.231.67.154/_gsdata_/lock.gsl
+2017-07-03 14:21:16: 

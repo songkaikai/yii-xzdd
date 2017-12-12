@@ -1,0 +1,54 @@
+2017-07-06 14:35:46: Connected to: D:\wwwroot\xzdd: D: NTFS: type=NTFS vol= flags=3E700FF
+2017-07-06 14:35:46: FTP: Use MLST/MLSD command to list files
+2017-07-06 14:35:46: Connected to: ftp://103.231.67.154: FileZilla Server 0.9.60 betawritten by Tim Kosse (tim.kosse@filezilla-project.org)Please visit https://filezilla-project.org/ ...: Syst='UNIX emulated by FileZilla' Feat='Features:: MDTM: REST STREAM: SIZE: MLST type*;size*;modify*;: MLSD: UTF8: CLNT: MFMT: EPSV: EPRT:End'
+2017-07-06 14:35:46: Incremental Analyze for On File Change
+2017-07-06 14:35:46: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-06 14:35:46: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2017-07-06 14:35:46: -- Analysis Started by On File Change, After Delay, Under Runner
+2017-07-06 14:35:46: ----- ：任务 'xz154'：计算机 'WIN-6970' 上的分析操作已由 On File Change, After Delay, Under Runner 所启动 (GoodSync v 10.4.1.5) -----
+2017-07-06 14:35:46: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] [NoListDir-TrustStateFile] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-06 14:35:46: 排除隐藏属性, 排除系统属性, 排除空文件夹, 已排除 /runtime|/log|name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2017-07-06 14:35:46: Locking folder D:/wwwroot/xzdd for write
+2017-07-06 14:35:46: 左侧: State File has changed, so re-read it: D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-06 14:35:46: 左侧: 读取状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-06 14:35:46: Change in: D:/wwwroot/xzdd/modules/api/controllers/AccountController.php
+2017-07-06 14:35:46: Change in: D:/wwwroot/xzdd/modules/api/controllers/AccountController.php
+2017-07-06 14:35:46: Change in: D:/wwwroot/xzdd/modules/api/controllers/AccountController.php
+2017-07-06 14:35:46: Change in: D:/wwwroot/xzdd/modules/api/controllers/AccountController.php
+2017-07-06 14:35:46: Change in: D:/wwwroot/xzdd/modules/api/controllers/AccountController.php
+2017-07-06 14:35:46: Locking folder ftp://103.231.67.154 for write
+2017-07-06 14:35:47: 同步需要磁盘 file:///D: 上的空间应为 0 字节，目前为 99.1 GB
+2017-07-06 14:35:47: On disk ftp://103.231.67.154 space required for sync is 6.00 KB, free space is unknown
+2017-07-06 14:35:47: 变更：1， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0, All: 12359
+2017-07-06 14:35:47: Left to Right: Copy File: 1 
+2017-07-06 14:35:47: ----- ：分析已结束。 历时 00:00:02， 速度： 6097 个文件/秒 -----
+2017-07-06 14:35:47: == Sync Started by On File Change, After Delay, Under Runner
+2017-07-06 14:35:47: ===== ：任务 'xz154'：同步已被 On File Change, After Delay, Under Runner 所启动，位于计算机 'WIN-6970' =====
+2017-07-06 14:35:47: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] [NoListDir-TrustStateFile] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-06 14:35:47: Load Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-06 14:35:47: 覆盖复制 'D:/wwwroot/xzdd/modules/api/controllers/AccountController.php' -> 'ftp://103.231.67.154/modules/api/controllers/AccountController.php'
+2017-07-06 14:35:47: 保存状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-06 14:35:48: 保存状态文件 ftp://103.231.67.154/_gsdata_/_file_state_v4._gs
+2017-07-06 14:35:48: Cleanup recycled files in D:/wwwroot/xzdd/_gsdata_/_saved_
+2017-07-06 14:35:48: Cleanup old logs in C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/file-D-wwwroot-xzdd
+2017-07-06 14:35:48: Cleanup old logs in D:/wwwroot/xzdd/_gsdata_
+2017-07-06 14:35:48: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0629-150452-WIN-6970-Runner-xz.log
+2017-07-06 14:35:48: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0629-150458-WIN-6970-Runner-xz154.log
+2017-07-06 14:35:48: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0629-171743-WIN-6970-Runner-xz.log
+2017-07-06 14:35:48: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0629-171749-WIN-6970-Runner-xz154.log
+2017-07-06 14:35:48: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0629-171925-WIN-6970-Runner-xz.log
+2017-07-06 14:35:48: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0629-171931-WIN-6970-Runner-xz154.log
+2017-07-06 14:35:48: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0630-102521-WIN-6970-Runner-xz.log
+2017-07-06 14:35:48: Delete log D:/wwwroot/xzdd/_gsdata_/2017-0630-102527-WIN-6970-Runner-xz154.log
+2017-07-06 14:35:48: Cleanup recycled files in ftp://103.231.67.154/_gsdata_/_saved_
+2017-07-06 14:35:49: Save Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-06 14:35:49: Cleanup old logs in C:/Users/Administrator/AppData/Roaming/GoodSync/_mirrors_/ftp-ywxzdd@103.231.67.154
+2017-07-06 14:35:49: Cleanup old logs in ftp://103.231.67.154/_gsdata_
+2017-07-06 14:35:49: Delete log ftp://103.231.67.154/_gsdata_/2017-0629-150458-WIN-6970-Runner-xz154.log
+2017-07-06 14:35:49: Delete log ftp://103.231.67.154/_gsdata_/2017-0629-171749-WIN-6970-Runner-xz154.log
+2017-07-06 14:35:49: Delete log ftp://103.231.67.154/_gsdata_/2017-0629-171931-WIN-6970-Runner-xz154.log
+2017-07-06 14:35:49: Delete log ftp://103.231.67.154/_gsdata_/2017-0630-102527-WIN-6970-Runner-xz154.log
+2017-07-06 14:35:49: ===== ：同步完毕。时间：00:00:02，速度： 201 KB/s =====, 项目同步未必： 1，错误： 0
+2017-07-06 14:35:49: Unlocking folder D:/wwwroot/xzdd/_gsdata_/lock.gsl
+2017-07-06 14:35:49: Unlocking folder ftp://103.231.67.154/_gsdata_/lock.gsl
+2017-07-06 14:35:49: 

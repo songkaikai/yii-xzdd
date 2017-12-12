@@ -1,0 +1,30 @@
+2017-07-05 11:47:23: Connected to: D:\wwwroot\xzdd: D: NTFS: type=NTFS vol= flags=3E700FF
+2017-07-05 11:47:23: FTP: Use MLST/MLSD command to list files
+2017-07-05 11:47:23: Connected to: ftp://103.231.67.154: FileZilla Server 0.9.60 betawritten by Tim Kosse (tim.kosse@filezilla-project.org)Please visit https://filezilla-project.org/ ...: Syst='UNIX emulated by FileZilla' Feat='Features:: MDTM: REST STREAM: SIZE: MLST type*;size*;modify*;: MLSD: UTF8: CLNT: MFMT: EPSV: EPRT:End'
+2017-07-05 11:47:23: Incremental Analyze for On File Change
+2017-07-05 11:47:23: Copy Attributes is ON but one of file systems does not support it, so Attributes will not be copied
+2017-07-05 11:47:23: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2017-07-05 11:47:23: -- Analysis Started by On File Change, After Delay, Under Runner
+2017-07-05 11:47:23: ----- ：任务 'xz154'：计算机 'WIN-6970' 上的分析操作已由 On File Change, After Delay, Under Runner 所启动 (GoodSync v 10.4.1.5) -----
+2017-07-05 11:47:23: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-05 11:47:23: 排除隐藏属性, 排除系统属性, 已排除 name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2017-07-05 11:47:23: Locking folder D:/wwwroot/xzdd for write
+2017-07-05 11:47:23: Change in: D:/wwwroot/xzdd/runtime/logs/app.log
+2017-07-05 11:47:23: Locking folder ftp://103.231.67.154 for write
+2017-07-05 11:47:23: 同步需要磁盘 file:///D: 上的空间应为 0 字节，目前为 99.2 GB
+2017-07-05 11:47:23: On disk ftp://103.231.67.154 space required for sync is 3.41 MB, free space is unknown
+2017-07-05 11:47:23: 变更：1， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0, All: 12356
+2017-07-05 11:47:23: Left to Right: Copy File: 1 
+2017-07-05 11:47:23: ----- ：分析已结束。 历时 00:00:01， 速度： 12K 个文件/秒 -----
+2017-07-05 11:47:23: == Sync Started by On File Change, After Delay, Under Runner
+2017-07-05 11:47:23: ===== ：任务 'xz154'：同步已被 On File Change, After Delay, Under Runner 所启动，位于计算机 'WIN-6970' =====
+2017-07-05 11:47:23: D:\wwwroot\xzdd (D:/wwwroot/xzdd) [TmpDest] =PropDels=> ftp://103.231.67.154 [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, OnFileChangeDelay=5, ChangeLimit=50, RenamesLosingFile
+2017-07-05 11:47:39: Load Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-05 11:47:39: 覆盖复制 'D:/wwwroot/xzdd/runtime/logs/app.log' -> 'ftp://103.231.67.154/runtime/logs/app.log'
+2017-07-05 11:47:39: 保存状态文件 D:/wwwroot/xzdd/_gsdata_/_file_state_v4._gs
+2017-07-05 11:47:40: 保存状态文件 ftp://103.231.67.154/_gsdata_/_file_state_v4._gs
+2017-07-05 11:47:40: Save Recycled DB: ftp://103.231.67.154/_gsdata_/_recycled_db._gs
+2017-07-05 11:47:40: ===== ：同步完毕。时间：00:00:17，速度： 217 KB/s =====, 项目同步未必： 1，错误： 0
+2017-07-05 11:47:40: Unlocking folder D:/wwwroot/xzdd/_gsdata_/lock.gsl
+2017-07-05 11:47:40: Unlocking folder ftp://103.231.67.154/_gsdata_/lock.gsl
+2017-07-05 11:47:40: 
